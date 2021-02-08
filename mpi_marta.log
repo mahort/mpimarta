@@ -1,0 +1,1489 @@
+1120693 [main] DEBUG mpimarta.taxa  - Id: otu1974 time: 011014-152325 GI: 292453321 lacks usable taxonomic information. Score-level: 456.0
+1120693 [main] DEBUG mpimarta.taxa  - Id: otu1974 time: 011014-152325 GI: 292453198 lacks usable taxonomic information. Score-level: 456.0
+1120693 [main] DEBUG mpimarta.taxa  - Id: otu1974 time: 011014-152325 GI: 401836231 lacks usable taxonomic information. Score-level: 456.0
+1120693 [main] DEBUG mpimarta.taxa  - Id: otu1974 time: 011014-152325 GI: 300872423 lacks usable taxonomic information. Score-level: 456.0
+1120693 [main] DEBUG mpimarta.taxa  - Id: otu1974 time: 011014-152325 GI: 292453635 lacks usable taxonomic information. Score-level: 456.0
+1120693 [main] DEBUG mpimarta.taxa  - Id: otu1974 time: 011014-152325 GI: 292453612 lacks usable taxonomic information. Score-level: 456.0
+1120693 [main] DEBUG mpimarta.taxa  - Id: otu1974 time: 011014-152325 GI: 292453223 lacks usable taxonomic information. Score-level: 456.0
+1120693 [main] DEBUG mpimarta.taxa  - Id: otu1974 time: 011014-152325 GI: 529273223 lacks usable taxonomic information. Score-level: 456.0
+1120693 [main] DEBUG mpimarta.taxa  - Id: otu1974 time: 011014-152325 GI: 529273206 lacks usable taxonomic information. Score-level: 456.0
+1120693 [main] DEBUG mpimarta.taxa  - Id: otu1974 time: 011014-152325 GI: 529273220 lacks usable taxonomic information. Score-level: 456.0
+1120787 [main] DEBUG mpimarta.taxa  - Id: otu1973 time: 011014-152325 Using slipscore: 318.0
+1120787 [main] DEBUG mpimarta.taxa  - Id: otu1973 time: 011014-152325 GI: 256855654 lacks usable taxonomic information. Score-level: 424.0
+1120787 [main] DEBUG mpimarta.taxa  - Id: otu1973 time: 011014-152325 GI: 90102607 lacks usable taxonomic information. Score-level: 424.0
+1120787 [main] DEBUG mpimarta.taxa  - Id: otu1973 time: 011014-152325 GI: 224971847 lacks usable taxonomic information. Score-level: 406.0
+1120787 [main] DEBUG mpimarta.taxa  - Id: otu1973 time: 011014-152325 GI: 544586130 lacks usable taxonomic information. Score-level: 385.0
+1120787 [main] DEBUG mpimarta.taxa  - Id: otu1973 time: 011014-152325 GI: 404248007 lacks usable taxonomic information. Score-level: 379.0
+1120787 [main] DEBUG mpimarta.taxa  - Id: otu1973 time: 011014-152325 GI: 224969736 lacks usable taxonomic information. Score-level: 367.0
+1120787 [main] DEBUG mpimarta.taxa  - Id: otu1973 time: 011014-152325 GI: 514825731 lacks usable taxonomic information. Score-level: 367.0
+1120787 [main] DEBUG mpimarta.taxa  - Id: otu1973 time: 011014-152325 GI: 363500323 lacks usable taxonomic information. Score-level: 345.0
+1120787 [main] DEBUG mpimarta.taxa  - Id: otu1973 time: 011014-152325 GI: 163257835 lacks usable taxonomic information. Score-level: 343.0
+1120787 [main] DEBUG mpimarta.taxa  - Id: otu1973 time: 011014-152325 GI: 363500081 lacks usable taxonomic information. Score-level: 319.0
+1120787 [main] DEBUG mpimarta.taxa  - Id: otu1973 time: 011014-152325 GI: 363501546 lacks usable taxonomic information. Score-level: 319.0
+1120787 [main] DEBUG mpimarta.taxa  -  time: 011014-152325 Analyzing OTU:otu1973 and gi:363501546 - Although we considered the top: 0 elements, we slipped past the slip-score.
+
+1120907 [main] DEBUG mpimarta.taxa  - Id: otu1972 time: 011014-152325 Using slipscore: 290.25
+1120907 [main] DEBUG mpimarta.taxa  - Id: otu1972 time: 011014-152325 GI: 256855887 lacks usable taxonomic information. Score-level: 387.0
+1120907 [main] DEBUG mpimarta.taxa  - Id: otu1972 time: 011014-152325 GI: 226925968 lacks usable taxonomic information. Score-level: 383.0
+1120907 [main] DEBUG mpimarta.taxa  - Id: otu1972 time: 011014-152325 GI: 163257843 lacks usable taxonomic information. Score-level: 377.0
+1120907 [main] DEBUG mpimarta.taxa  - Id: otu1972 time: 011014-152325 GI: 226925776 lacks usable taxonomic information. Score-level: 377.0
+1120907 [main] DEBUG mpimarta.taxa  - Id: otu1972 time: 011014-152325 GI: 219814042 lacks usable taxonomic information. Score-level: 367.0
+1120907 [main] DEBUG mpimarta.taxa  - Id: otu1972 time: 011014-152325 GI: 226926528 lacks usable taxonomic information. Score-level: 363.0
+1120907 [main] DEBUG mpimarta.taxa  - Id: otu1972 time: 011014-152325 GI: 300086447 lacks usable taxonomic information. Score-level: 331.0
+1120907 [main] DEBUG mpimarta.taxa  - Id: otu1972 time: 011014-152325 GI: 90102952 lacks usable taxonomic information. Score-level: 331.0
+1120907 [main] DEBUG mpimarta.taxa  - Id: otu1972 time: 011014-152325 GI: 300086448 lacks usable taxonomic information. Score-level: 331.0
+1120907 [main] DEBUG mpimarta.taxa  - Id: otu1972 time: 011014-152325 GI: 532165353 lacks usable taxonomic information. Score-level: 329.0
+1120907 [main] DEBUG mpimarta.taxa  - Id: otu1972 time: 011014-152325 GI: 363502678 lacks usable taxonomic information. Score-level: 329.0
+1121283 [main] DEBUG mpimarta.taxa  - Id: otu1971 time: 011014-152326 Using slipscore: 345.0
+1121283 [main] DEBUG mpimarta.taxa  - Id: otu1971 time: 011014-152326 GI: 163257682 lacks usable taxonomic information. Score-level: 460.0
+1121283 [main] DEBUG mpimarta.taxa  - Id: otu1971 time: 011014-152326 GI: 163257912 lacks usable taxonomic information. Score-level: 460.0
+1121283 [main] DEBUG mpimarta.taxa  - Id: otu1971 time: 011014-152326 GI: 363501259 lacks usable taxonomic information. Score-level: 454.0
+1121283 [main] DEBUG mpimarta.taxa  - Id: otu1971 time: 011014-152326 GI: 163257727 lacks usable taxonomic information. Score-level: 444.0
+1121283 [main] DEBUG mpimarta.taxa  - Id: otu1971 time: 011014-152326 GI: 163257691 lacks usable taxonomic information. Score-level: 444.0
+1121283 [main] DEBUG mpimarta.taxa  - Id: otu1971 time: 011014-152326 GI: 310753889 lacks usable taxonomic information. Score-level: 444.0
+1121283 [main] DEBUG mpimarta.taxa  - Id: otu1971 time: 011014-152326 GI: 295646659 lacks usable taxonomic information. Score-level: 440.0
+1121283 [main] DEBUG mpimarta.taxa  - Id: otu1971 time: 011014-152326 GI: 218473037 lacks usable taxonomic information. Score-level: 436.0
+1121283 [main] DEBUG mpimarta.taxa  - Id: otu1971 time: 011014-152326 GI: 310754447 lacks usable taxonomic information. Score-level: 436.0
+1121283 [main] DEBUG mpimarta.taxa  - Id: otu1971 time: 011014-152326 GI: 310754330 lacks usable taxonomic information. Score-level: 428.0
+1121283 [main] DEBUG mpimarta.taxa  - Id: otu1971 time: 011014-152326 GI: 544586084 lacks usable taxonomic information. Score-level: 424.0
+1121283 [main] DEBUG mpimarta.taxa  - Id: otu1971 time: 011014-152326 GI: 532166281 lacks usable taxonomic information. Score-level: 422.0
+1121283 [main] DEBUG mpimarta.taxa  - Id: otu1971 time: 011014-152326 GI: 526298508 lacks usable taxonomic information. Score-level: 420.0
+1121283 [main] DEBUG mpimarta.taxa  - Id: otu1971 time: 011014-152326 GI: 163257796 lacks usable taxonomic information. Score-level: 420.0
+1121283 [main] DEBUG mpimarta.taxa  - Id: otu1971 time: 011014-152326 GI: 409245226 lacks usable taxonomic information. Score-level: 410.0
+1121283 [main] DEBUG mpimarta.taxa  - Id: otu1971 time: 011014-152326 GI: 295646668 lacks usable taxonomic information. Score-level: 404.0
+1121283 [main] DEBUG mpimarta.taxa  - Id: otu1971 time: 011014-152326 GI: 409245224 lacks usable taxonomic information. Score-level: 402.0
+1121283 [main] DEBUG mpimarta.taxa  - Id: otu1971 time: 011014-152326 GI: 409245225 lacks usable taxonomic information. Score-level: 402.0
+1121507 [main] DEBUG mpimarta.taxa  - Id: otu1069 time: 011014-152326 Using slipscore: 387.75
+1121507 [main] DEBUG mpimarta.taxa  - Id: otu1069 time: 011014-152326 GI: 387583058 lacks usable taxonomic information. Score-level: 517.0
+1121507 [main] DEBUG mpimarta.taxa  - Id: otu1069 time: 011014-152326 GI: 363500727 lacks usable taxonomic information. Score-level: 504.0
+1121507 [main] DEBUG mpimarta.taxa  - Id: otu1069 time: 011014-152326 GI: 339458793 lacks usable taxonomic information. Score-level: 458.0
+1121507 [main] DEBUG mpimarta.taxa  - Id: otu1069 time: 011014-152326 GI: 163257842 lacks usable taxonomic information. Score-level: 442.0
+1121507 [main] DEBUG mpimarta.taxa  - Id: otu1069 time: 011014-152326 GI: 345432204 lacks usable taxonomic information. Score-level: 436.0
+1121507 [main] DEBUG mpimarta.taxa  - Id: otu1069 time: 011014-152326 GI: 345432438 lacks usable taxonomic information. Score-level: 436.0
+1121507 [main] DEBUG mpimarta.taxa  - Id: otu1069 time: 011014-152326 GI: 363502115 lacks usable taxonomic information. Score-level: 430.0
+1121507 [main] DEBUG mpimarta.taxa  - Id: otu1069 time: 011014-152326 GI: 259091625 lacks usable taxonomic information. Score-level: 426.0
+1121507 [main] DEBUG mpimarta.taxa  - Id: otu1069 time: 011014-152326 GI: 224973599 lacks usable taxonomic information. Score-level: 420.0
+1121507 [main] DEBUG mpimarta.taxa  - Id: otu1069 time: 011014-152326 GI: 363500544 lacks usable taxonomic information. Score-level: 414.0
+1121507 [main] DEBUG mpimarta.taxa  - Id: otu1069 time: 011014-152326 GI: 259106064 lacks usable taxonomic information. Score-level: 410.0
+1121507 [main] DEBUG mpimarta.taxa  - Id: otu1069 time: 011014-152326 GI: 259093664 lacks usable taxonomic information. Score-level: 404.0
+1121507 [main] DEBUG mpimarta.taxa  - Id: otu1069 time: 011014-152326 GI: 224974469 lacks usable taxonomic information. Score-level: 404.0
+1121507 [main] DEBUG mpimarta.taxa  - Id: otu1069 time: 011014-152326 GI: 259093829 lacks usable taxonomic information. Score-level: 404.0
+1121507 [main] DEBUG mpimarta.taxa  - Id: otu1069 time: 011014-152326 GI: 259103706 lacks usable taxonomic information. Score-level: 402.0
+1121507 [main] DEBUG mpimarta.taxa  - Id: otu1069 time: 011014-152326 GI: 259092607 lacks usable taxonomic information. Score-level: 394.0
+1121507 [main] DEBUG mpimarta.taxa  - Id: otu1069 time: 011014-152326 GI: 224971702 lacks usable taxonomic information. Score-level: 389.0
+1121507 [main] DEBUG mpimarta.taxa  -  time: 011014-152326 Analyzing OTU:otu1069 and gi:224971702 - Although we considered the top: 0 elements, we slipped past the slip-score.
+
+1121803 [main] DEBUG mpimarta.taxa  - Id: otu1970 time: 011014-152326 Using slipscore: 269.25
+1121803 [main] DEBUG mpimarta.taxa  - Id: otu1970 time: 011014-152326 GI: 163257682 lacks usable taxonomic information. Score-level: 359.0
+1121803 [main] DEBUG mpimarta.taxa  - Id: otu1970 time: 011014-152326 GI: 163257912 lacks usable taxonomic information. Score-level: 359.0
+1121803 [main] DEBUG mpimarta.taxa  - Id: otu1970 time: 011014-152326 GI: 163257727 lacks usable taxonomic information. Score-level: 343.0
+1121803 [main] DEBUG mpimarta.taxa  - Id: otu1970 time: 011014-152326 GI: 163257691 lacks usable taxonomic information. Score-level: 343.0
+1121803 [main] DEBUG mpimarta.taxa  - Id: otu1970 time: 011014-152326 GI: 310753889 lacks usable taxonomic information. Score-level: 343.0
+1121803 [main] DEBUG mpimarta.taxa  - Id: otu1970 time: 011014-152326 GI: 295646659 lacks usable taxonomic information. Score-level: 339.0
+1121803 [main] DEBUG mpimarta.taxa  - Id: otu1970 time: 011014-152326 GI: 218473037 lacks usable taxonomic information. Score-level: 335.0
+1121803 [main] DEBUG mpimarta.taxa  - Id: otu1970 time: 011014-152326 GI: 310754447 lacks usable taxonomic information. Score-level: 335.0
+1121803 [main] DEBUG mpimarta.taxa  - Id: otu1970 time: 011014-152326 GI: 363500412 lacks usable taxonomic information. Score-level: 329.0
+1121803 [main] DEBUG mpimarta.taxa  - Id: otu1970 time: 011014-152326 GI: 163257796 lacks usable taxonomic information. Score-level: 327.0
+1121803 [main] DEBUG mpimarta.taxa  - Id: otu1970 time: 011014-152326 GI: 310754330 lacks usable taxonomic information. Score-level: 327.0
+1121803 [main] DEBUG mpimarta.taxa  - Id: otu1970 time: 011014-152326 GI: 363501259 lacks usable taxonomic information. Score-level: 323.0
+1121803 [main] DEBUG mpimarta.taxa  - Id: otu1970 time: 011014-152326 GI: 409245226 lacks usable taxonomic information. Score-level: 307.0
+1121803 [main] DEBUG mpimarta.taxa  - Id: otu1970 time: 011014-152326 GI: 532166281 lacks usable taxonomic information. Score-level: 307.0
+1121803 [main] DEBUG mpimarta.taxa  - Id: otu1970 time: 011014-152326 GI: 409245224 lacks usable taxonomic information. Score-level: 307.0
+1121803 [main] DEBUG mpimarta.taxa  - Id: otu1970 time: 011014-152326 GI: 409245225 lacks usable taxonomic information. Score-level: 307.0
+1121803 [main] DEBUG mpimarta.taxa  - Id: otu1970 time: 011014-152326 GI: 526298508 lacks usable taxonomic information. Score-level: 305.0
+1121803 [main] DEBUG mpimarta.taxa  - Id: otu1970 time: 011014-152326 GI: 295646668 lacks usable taxonomic information. Score-level: 303.0
+1121803 [main] DEBUG mpimarta.taxa  - Id: otu1970 time: 011014-152326 GI: 544586084 lacks usable taxonomic information. Score-level: 301.0
+1121975 [main] DEBUG mpimarta.taxa  - Id: otu1068 time: 011014-152326 Using slipscore: 355.5
+1121975 [main] DEBUG mpimarta.taxa  - Id: otu1068 time: 011014-152326 GI: 363502503 lacks usable taxonomic information. Score-level: 474.0
+1121975 [main] DEBUG mpimarta.taxa  - Id: otu1068 time: 011014-152326 GI: 212276777 lacks usable taxonomic information. Score-level: 438.0
+1121975 [main] DEBUG mpimarta.taxa  - Id: otu1068 time: 011014-152326 GI: 212276770 lacks usable taxonomic information. Score-level: 430.0
+1121975 [main] DEBUG mpimarta.taxa  - Id: otu1068 time: 011014-152326 GI: 363500027 lacks usable taxonomic information. Score-level: 426.0
+1121975 [main] DEBUG mpimarta.taxa  - Id: otu1068 time: 011014-152326 GI: 363500792 lacks usable taxonomic information. Score-level: 412.0
+1121975 [main] DEBUG mpimarta.taxa  - Id: otu1068 time: 011014-152326 GI: 163257788 lacks usable taxonomic information. Score-level: 412.0
+1121981 [main] DEBUG mpimarta.taxa  - Id: otu1067 time: 011014-152326 Using slipscore: -0.75
+1121981 [main] DEBUG mpimarta.taxa  -  time: 011014-152326 There are no (valid) blast candidates for target-sequence: otu1067
+1122442 [main] DEBUG mpimarta.taxa  - Id: otu1979 time: 011014-152327 Using slipscore: 339.0
+1122442 [main] DEBUG mpimarta.taxa  - Id: otu1979 time: 011014-152327 GI: 256855596 lacks usable taxonomic information. Score-level: 452.0
+1122442 [main] DEBUG mpimarta.taxa  - Id: otu1979 time: 011014-152327 GI: 256855602 lacks usable taxonomic information. Score-level: 452.0
+1122442 [main] DEBUG mpimarta.taxa  - Id: otu1979 time: 011014-152327 GI: 256855601 lacks usable taxonomic information. Score-level: 452.0
+1122442 [main] DEBUG mpimarta.taxa  - Id: otu1979 time: 011014-152327 GI: 90102467 lacks usable taxonomic information. Score-level: 452.0
+1122442 [main] DEBUG mpimarta.taxa  - Id: otu1979 time: 011014-152327 GI: 224975327 lacks usable taxonomic information. Score-level: 452.0
+1122442 [main] DEBUG mpimarta.taxa  - Id: otu1979 time: 011014-152327 GI: 224970729 lacks usable taxonomic information. Score-level: 452.0
+1122442 [main] DEBUG mpimarta.taxa  - Id: otu1979 time: 011014-152327 GI: 256855597 lacks usable taxonomic information. Score-level: 452.0
+1122442 [main] DEBUG mpimarta.taxa  - Id: otu1979 time: 011014-152327 GI: 256855604 lacks usable taxonomic information. Score-level: 452.0
+1122442 [main] DEBUG mpimarta.taxa  - Id: otu1979 time: 011014-152327 GI: 256855603 lacks usable taxonomic information. Score-level: 452.0
+1122442 [main] DEBUG mpimarta.taxa  - Id: otu1979 time: 011014-152327 GI: 90102465 lacks usable taxonomic information. Score-level: 452.0
+1122442 [main] DEBUG mpimarta.taxa  - Id: otu1979 time: 011014-152327 GI: 90102466 lacks usable taxonomic information. Score-level: 452.0
+1122442 [main] DEBUG mpimarta.taxa  - Id: otu1979 time: 011014-152327 GI: 256855595 lacks usable taxonomic information. Score-level: 452.0
+1122442 [main] DEBUG mpimarta.taxa  - Id: otu1979 time: 011014-152327 GI: 256855599 lacks usable taxonomic information. Score-level: 452.0
+1122442 [main] DEBUG mpimarta.taxa  - Id: otu1979 time: 011014-152327 GI: 256855600 lacks usable taxonomic information. Score-level: 452.0
+1122442 [main] DEBUG mpimarta.taxa  - Id: otu1979 time: 011014-152327 GI: 256855598 lacks usable taxonomic information. Score-level: 452.0
+1122442 [main] DEBUG mpimarta.taxa  - Id: otu1979 time: 011014-152327 GI: 508125282 lacks usable taxonomic information. Score-level: 446.0
+1122442 [main] DEBUG mpimarta.taxa  - Id: otu1979 time: 011014-152327 GI: 259099086 lacks usable taxonomic information. Score-level: 446.0
+1122443 [main] DEBUG mpimarta.taxa  - Id: otu1979 time: 011014-152327 GI: 224973525 lacks usable taxonomic information. Score-level: 444.0
+1122448 [main] DEBUG mpimarta.taxa  - Id: otu1978 time: 011014-152327 Using slipscore: -0.75
+1122448 [main] DEBUG mpimarta.taxa  -  time: 011014-152327 There are no (valid) blast candidates for target-sequence: otu1978
+1122719 [main] DEBUG mpimarta.taxa  - Id: otu1977 time: 011014-152327 Using slipscore: 309.0
+1122719 [main] DEBUG mpimarta.taxa  - Id: otu1977 time: 011014-152327 GI: 218473037 lacks usable taxonomic information. Score-level: 412.0
+1122719 [main] DEBUG mpimarta.taxa  - Id: otu1977 time: 011014-152327 GI: 310754447 lacks usable taxonomic information. Score-level: 412.0
+1122719 [main] DEBUG mpimarta.taxa  - Id: otu1977 time: 011014-152327 GI: 163257796 lacks usable taxonomic information. Score-level: 404.0
+1122719 [main] DEBUG mpimarta.taxa  - Id: otu1977 time: 011014-152327 GI: 310754330 lacks usable taxonomic information. Score-level: 404.0
+1122719 [main] DEBUG mpimarta.taxa  - Id: otu1977 time: 011014-152327 GI: 163257727 lacks usable taxonomic information. Score-level: 389.0
+1122719 [main] DEBUG mpimarta.taxa  - Id: otu1977 time: 011014-152327 GI: 163257691 lacks usable taxonomic information. Score-level: 389.0
+1122719 [main] DEBUG mpimarta.taxa  - Id: otu1977 time: 011014-152327 GI: 310753889 lacks usable taxonomic information. Score-level: 389.0
+1122719 [main] DEBUG mpimarta.taxa  - Id: otu1977 time: 011014-152327 GI: 163257912 lacks usable taxonomic information. Score-level: 389.0
+1122719 [main] DEBUG mpimarta.taxa  - Id: otu1977 time: 011014-152327 GI: 409245226 lacks usable taxonomic information. Score-level: 385.0
+1122719 [main] DEBUG mpimarta.taxa  - Id: otu1977 time: 011014-152327 GI: 409245224 lacks usable taxonomic information. Score-level: 385.0
+1122719 [main] DEBUG mpimarta.taxa  - Id: otu1977 time: 011014-152327 GI: 295646659 lacks usable taxonomic information. Score-level: 385.0
+1122719 [main] DEBUG mpimarta.taxa  - Id: otu1977 time: 011014-152327 GI: 409245225 lacks usable taxonomic information. Score-level: 385.0
+1122719 [main] DEBUG mpimarta.taxa  - Id: otu1977 time: 011014-152327 GI: 295646668 lacks usable taxonomic information. Score-level: 381.0
+1122719 [main] DEBUG mpimarta.taxa  - Id: otu1977 time: 011014-152327 GI: 163257682 lacks usable taxonomic information. Score-level: 373.0
+1122719 [main] DEBUG mpimarta.taxa  - Id: otu1977 time: 011014-152327 GI: 363501259 lacks usable taxonomic information. Score-level: 353.0
+1122719 [main] DEBUG mpimarta.taxa  - Id: otu1977 time: 011014-152327 GI: 330339125 lacks usable taxonomic information. Score-level: 341.0
+1122719 [main] DEBUG mpimarta.taxa  - Id: otu1977 time: 011014-152327 GI: 532166281 lacks usable taxonomic information. Score-level: 337.0
+1122719 [main] DEBUG mpimarta.taxa  - Id: otu1977 time: 011014-152327 GI: 330339122 lacks usable taxonomic information. Score-level: 337.0
+1122725 [main] DEBUG mpimarta.taxa  - Id: otu1075 time: 011014-152327 Using slipscore: -0.75
+1122725 [main] DEBUG mpimarta.taxa  -  time: 011014-152327 There are no (valid) blast candidates for target-sequence: otu1075
+1123909 [main] DEBUG mpimarta.taxa  - Id: otu1076 time: 011014-152328 Using slipscore: 352.5
+1123916 [main] DEBUG mpimarta.taxa  - Id: otu1077 time: 011014-152328 Using slipscore: -0.75
+1123916 [main] DEBUG mpimarta.taxa  -  time: 011014-152328 There are no (valid) blast candidates for target-sequence: otu1077
+1123921 [main] DEBUG mpimarta.taxa  - Id: otu1070 time: 011014-152328 Using slipscore: -0.75
+1123921 [main] DEBUG mpimarta.taxa  -  time: 011014-152328 There are no (valid) blast candidates for target-sequence: otu1070
+1123926 [main] DEBUG mpimarta.taxa  - Id: otu1071 time: 011014-152328 Using slipscore: -0.75
+1123926 [main] DEBUG mpimarta.taxa  -  time: 011014-152328 There are no (valid) blast candidates for target-sequence: otu1071
+1124734 [main] DEBUG mpimarta.taxa  - Id: otu1073 time: 011014-152329 Using slipscore: 383.25
+1124734 [main] DEBUG mpimarta.taxa  - Id: otu1073 time: 011014-152329 GI: 363501326 lacks usable taxonomic information. Score-level: 511.0
+1124734 [main] DEBUG mpimarta.taxa  - Id: otu1073 time: 011014-152329 GI: 299034390 lacks usable taxonomic information. Score-level: 496.0
+1124734 [main] DEBUG mpimarta.taxa  - Id: otu1073 time: 011014-152329 GI: 256855792 lacks usable taxonomic information. Score-level: 496.0
+1124734 [main] DEBUG mpimarta.taxa  - Id: otu1073 time: 011014-152329 GI: 363500041 lacks usable taxonomic information. Score-level: 492.0
+1124734 [main] DEBUG mpimarta.taxa  - Id: otu1073 time: 011014-152329 GI: 317415715 lacks usable taxonomic information. Score-level: 490.0
+1124734 [main] DEBUG mpimarta.taxa  - Id: otu1073 time: 011014-152329 GI: 317415716 lacks usable taxonomic information. Score-level: 490.0
+1124877 [main] DEBUG mpimarta.taxa  - Id: otu1963 time: 011014-152329 Using slipscore: 301.5
+1124877 [main] DEBUG mpimarta.taxa  - Id: otu1963 time: 011014-152329 GI: 363500081 lacks usable taxonomic information. Score-level: 402.0
+1124877 [main] DEBUG mpimarta.taxa  - Id: otu1963 time: 011014-152329 GI: 224969736 lacks usable taxonomic information. Score-level: 381.0
+1124877 [main] DEBUG mpimarta.taxa  - Id: otu1963 time: 011014-152329 GI: 224971847 lacks usable taxonomic information. Score-level: 373.0
+1124877 [main] DEBUG mpimarta.taxa  - Id: otu1963 time: 011014-152329 GI: 163257835 lacks usable taxonomic information. Score-level: 371.0
+1124877 [main] DEBUG mpimarta.taxa  - Id: otu1963 time: 011014-152329 GI: 544585072 lacks usable taxonomic information. Score-level: 367.0
+1124877 [main] DEBUG mpimarta.taxa  - Id: otu1963 time: 011014-152329 GI: 256855654 lacks usable taxonomic information. Score-level: 345.0
+1124877 [main] DEBUG mpimarta.taxa  - Id: otu1963 time: 011014-152329 GI: 90102607 lacks usable taxonomic information. Score-level: 345.0
+1124877 [main] DEBUG mpimarta.taxa  - Id: otu1963 time: 011014-152329 GI: 544586024 lacks usable taxonomic information. Score-level: 323.0
+1124877 [main] DEBUG mpimarta.taxa  - Id: otu1963 time: 011014-152329 GI: 544586130 lacks usable taxonomic information. Score-level: 319.0
+1124877 [main] DEBUG mpimarta.taxa  - Id: otu1963 time: 011014-152329 GI: 404248007 lacks usable taxonomic information. Score-level: 313.0
+1124877 [main] DEBUG mpimarta.taxa  - Id: otu1963 time: 011014-152329 GI: 363500323 lacks usable taxonomic information. Score-level: 311.0
+1124877 [main] DEBUG mpimarta.taxa  - Id: otu1963 time: 011014-152329 GI: 514825731 lacks usable taxonomic information. Score-level: 311.0
+1124877 [main] DEBUG mpimarta.taxa  -  time: 011014-152329 Analyzing OTU:otu1963 and gi:514825731 - Although we considered the top: 0 elements, we slipped past the slip-score.
+
+1125195 [main] DEBUG mpimarta.taxa  - Id: otu1962 time: 011014-152329 Using slipscore: 369.0
+1125195 [main] DEBUG mpimarta.taxa  - Id: otu1962 time: 011014-152329 GI: 323404758 lacks usable taxonomic information. Score-level: 492.0
+1125195 [main] DEBUG mpimarta.taxa  - Id: otu1962 time: 011014-152329 GI: 258642357 lacks usable taxonomic information. Score-level: 490.0
+1125195 [main] DEBUG mpimarta.taxa  - Id: otu1962 time: 011014-152329 GI: 354720400 lacks usable taxonomic information. Score-level: 466.0
+1125195 [main] DEBUG mpimarta.taxa  - Id: otu1962 time: 011014-152329 GI: 354720399 lacks usable taxonomic information. Score-level: 466.0
+1125195 [main] DEBUG mpimarta.taxa  - Id: otu1962 time: 011014-152329 GI: 354720401 lacks usable taxonomic information. Score-level: 466.0
+1125195 [main] DEBUG mpimarta.taxa  - Id: otu1962 time: 011014-152329 GI: 326485652 lacks usable taxonomic information. Score-level: 464.0
+1125330 [main] DEBUG mpimarta.taxa  - Id: otu1964 time: 011014-152330 Using slipscore: 315.0
+1125330 [main] DEBUG mpimarta.taxa  - Id: otu1964 time: 011014-152330 GI: 224970769 lacks usable taxonomic information. Score-level: 420.0
+1125330 [main] DEBUG mpimarta.taxa  - Id: otu1964 time: 011014-152330 GI: 259104149 lacks usable taxonomic information. Score-level: 410.0
+1125330 [main] DEBUG mpimarta.taxa  - Id: otu1964 time: 011014-152330 GI: 259109179 lacks usable taxonomic information. Score-level: 410.0
+1125330 [main] DEBUG mpimarta.taxa  - Id: otu1964 time: 011014-152330 GI: 224973021 lacks usable taxonomic information. Score-level: 402.0
+1125330 [main] DEBUG mpimarta.taxa  - Id: otu1964 time: 011014-152330 GI: 259098097 lacks usable taxonomic information. Score-level: 402.0
+1125330 [main] DEBUG mpimarta.taxa  - Id: otu1964 time: 011014-152330 GI: 224974982 lacks usable taxonomic information. Score-level: 389.0
+1125330 [main] DEBUG mpimarta.taxa  - Id: otu1964 time: 011014-152330 GI: 544585231 lacks usable taxonomic information. Score-level: 383.0
+1125330 [main] DEBUG mpimarta.taxa  - Id: otu1964 time: 011014-152330 GI: 363501522 lacks usable taxonomic information. Score-level: 325.0
+1125330 [main] DEBUG mpimarta.taxa  -  time: 011014-152330 Analyzing OTU:otu1964 and gi:363501522 - Although we considered the top: 0 elements, we slipped past the slip-score.
+
+1125400 [main] DEBUG mpimarta.taxa  - Id: otu1079 time: 011014-152330 Using slipscore: 269.25
+1125400 [main] DEBUG mpimarta.taxa  - Id: otu1079 time: 011014-152330 GI: 339458374 lacks usable taxonomic information. Score-level: 359.0
+1125400 [main] DEBUG mpimarta.taxa  - Id: otu1079 time: 011014-152330 GI: 363500461 lacks usable taxonomic information. Score-level: 349.0
+1125400 [main] DEBUG mpimarta.taxa  - Id: otu1079 time: 011014-152330 GI: 334683024 lacks usable taxonomic information. Score-level: 301.0
+1125748 [main] DEBUG mpimarta.taxa  - Id: otu1961 time: 011014-152330 Using slipscore: 273.75
+1125748 [main] DEBUG mpimarta.taxa  - Id: otu1961 time: 011014-152330 GI: 291498443 lacks usable taxonomic information. Score-level: 365.0
+1125748 [main] DEBUG mpimarta.taxa  - Id: otu1961 time: 011014-152330 GI: 90102656 lacks usable taxonomic information. Score-level: 351.0
+1125748 [main] DEBUG mpimarta.taxa  - Id: otu1961 time: 011014-152330 GI: 90102657 lacks usable taxonomic information. Score-level: 351.0
+1125748 [main] DEBUG mpimarta.taxa  - Id: otu1961 time: 011014-152330 GI: 90102654 lacks usable taxonomic information. Score-level: 351.0
+1125748 [main] DEBUG mpimarta.taxa  - Id: otu1961 time: 011014-152330 GI: 380003967 lacks usable taxonomic information. Score-level: 335.0
+1125748 [main] DEBUG mpimarta.taxa  - Id: otu1961 time: 011014-152330 GI: 194462435 lacks usable taxonomic information. Score-level: 335.0
+1125748 [main] DEBUG mpimarta.taxa  - Id: otu1961 time: 011014-152330 GI: 291498482 lacks usable taxonomic information. Score-level: 333.0
+1125898 [main] DEBUG mpimarta.taxa  - Id: otu1960 time: 011014-152330 Using slipscore: 298.5
+1125898 [main] DEBUG mpimarta.taxa  - Id: otu1960 time: 011014-152330 GI: 226925968 lacks usable taxonomic information. Score-level: 398.0
+1125898 [main] DEBUG mpimarta.taxa  - Id: otu1960 time: 011014-152330 GI: 256855887 lacks usable taxonomic information. Score-level: 392.0
+1125898 [main] DEBUG mpimarta.taxa  - Id: otu1960 time: 011014-152330 GI: 226925776 lacks usable taxonomic information. Score-level: 391.0
+1125898 [main] DEBUG mpimarta.taxa  - Id: otu1960 time: 011014-152330 GI: 163257843 lacks usable taxonomic information. Score-level: 379.0
+1125898 [main] DEBUG mpimarta.taxa  - Id: otu1960 time: 011014-152330 GI: 226926528 lacks usable taxonomic information. Score-level: 379.0
+1125898 [main] DEBUG mpimarta.taxa  - Id: otu1960 time: 011014-152330 GI: 401466721 lacks usable taxonomic information. Score-level: 377.0
+1125898 [main] DEBUG mpimarta.taxa  - Id: otu1960 time: 011014-152330 GI: 219814042 lacks usable taxonomic information. Score-level: 371.0
+1125898 [main] DEBUG mpimarta.taxa  - Id: otu1960 time: 011014-152330 GI: 226925685 lacks usable taxonomic information. Score-level: 371.0
+1125898 [main] DEBUG mpimarta.taxa  - Id: otu1960 time: 011014-152330 GI: 226926136 lacks usable taxonomic information. Score-level: 369.0
+1125898 [main] DEBUG mpimarta.taxa  - Id: otu1960 time: 011014-152330 GI: 305854895 lacks usable taxonomic information. Score-level: 367.0
+1125898 [main] DEBUG mpimarta.taxa  - Id: otu1960 time: 011014-152330 GI: 226929054 lacks usable taxonomic information. Score-level: 363.0
+1125898 [main] DEBUG mpimarta.taxa  - Id: otu1960 time: 011014-152330 GI: 90102952 lacks usable taxonomic information. Score-level: 339.0
+1125898 [main] DEBUG mpimarta.taxa  - Id: otu1960 time: 011014-152330 GI: 532165353 lacks usable taxonomic information. Score-level: 335.0
+1125898 [main] DEBUG mpimarta.taxa  - Id: otu1960 time: 011014-152330 GI: 300086447 lacks usable taxonomic information. Score-level: 331.0
+1125898 [main] DEBUG mpimarta.taxa  - Id: otu1960 time: 011014-152330 GI: 300086448 lacks usable taxonomic information. Score-level: 331.0
+1125898 [main] DEBUG mpimarta.taxa  - Id: otu1960 time: 011014-152330 GI: 363502678 lacks usable taxonomic information. Score-level: 331.0
+1125898 [main] DEBUG mpimarta.taxa  - Id: otu1960 time: 011014-152330 GI: 226926659 lacks usable taxonomic information. Score-level: 327.0
+1125898 [main] DEBUG mpimarta.taxa  - Id: otu1960 time: 011014-152330 GI: 300086444 lacks usable taxonomic information. Score-level: 323.0
+1125898 [main] DEBUG mpimarta.taxa  - Id: otu1960 time: 011014-152330 GI: 219968194 lacks usable taxonomic information. Score-level: 323.0
+1125898 [main] DEBUG mpimarta.taxa  - Id: otu1960 time: 011014-152330 GI: 226927469 lacks usable taxonomic information. Score-level: 319.0
+1125898 [main] DEBUG mpimarta.taxa  - Id: otu1960 time: 011014-152330 GI: 219968246 lacks usable taxonomic information. Score-level: 315.0
+1125898 [main] DEBUG mpimarta.taxa  - Id: otu1960 time: 011014-152330 GI: 226926587 lacks usable taxonomic information. Score-level: 311.0
+1125898 [main] DEBUG mpimarta.taxa  - Id: otu1960 time: 011014-152330 GI: 530721737 lacks usable taxonomic information. Score-level: 307.0
+1126005 [main] DEBUG mpimarta.taxa  - Id: otu1967 time: 011014-152330 Using slipscore: 294.0
+1126005 [main] DEBUG mpimarta.taxa  - Id: otu1967 time: 011014-152330 GI: 256855654 lacks usable taxonomic information. Score-level: 392.0
+1126005 [main] DEBUG mpimarta.taxa  - Id: otu1967 time: 011014-152330 GI: 90102607 lacks usable taxonomic information. Score-level: 392.0
+1126005 [main] DEBUG mpimarta.taxa  - Id: otu1967 time: 011014-152330 GI: 224971847 lacks usable taxonomic information. Score-level: 383.0
+1126005 [main] DEBUG mpimarta.taxa  - Id: otu1967 time: 011014-152330 GI: 544586130 lacks usable taxonomic information. Score-level: 377.0
+1126005 [main] DEBUG mpimarta.taxa  - Id: otu1967 time: 011014-152330 GI: 404248007 lacks usable taxonomic information. Score-level: 371.0
+1126005 [main] DEBUG mpimarta.taxa  - Id: otu1967 time: 011014-152330 GI: 514825731 lacks usable taxonomic information. Score-level: 359.0
+1126005 [main] DEBUG mpimarta.taxa  - Id: otu1967 time: 011014-152330 GI: 224969736 lacks usable taxonomic information. Score-level: 343.0
+1126005 [main] DEBUG mpimarta.taxa  - Id: otu1967 time: 011014-152330 GI: 363500081 lacks usable taxonomic information. Score-level: 337.0
+1126005 [main] DEBUG mpimarta.taxa  - Id: otu1967 time: 011014-152330 GI: 363500323 lacks usable taxonomic information. Score-level: 329.0
+1126005 [main] DEBUG mpimarta.taxa  - Id: otu1967 time: 011014-152330 GI: 163257835 lacks usable taxonomic information. Score-level: 321.0
+1126005 [main] DEBUG mpimarta.taxa  - Id: otu1967 time: 011014-152330 GI: 363501546 lacks usable taxonomic information. Score-level: 297.0
+1126005 [main] DEBUG mpimarta.taxa  -  time: 011014-152330 Analyzing OTU:otu1967 and gi:363501546 - Although we considered the top: 0 elements, we slipped past the slip-score.
+
+1126011 [main] DEBUG mpimarta.taxa  - Id: otu1966 time: 011014-152330 Using slipscore: -0.75
+1126011 [main] DEBUG mpimarta.taxa  -  time: 011014-152330 There are no (valid) blast candidates for target-sequence: otu1966
+1126017 [main] DEBUG mpimarta.taxa  - Id: otu1969 time: 011014-152330 Using slipscore: -0.75
+1126017 [main] DEBUG mpimarta.taxa  -  time: 011014-152330 There are no (valid) blast candidates for target-sequence: otu1969
+1126175 [main] DEBUG mpimarta.taxa  - Id: otu1968 time: 011014-152330 Using slipscore: 291.75
+1126175 [main] DEBUG mpimarta.taxa  - Id: otu1968 time: 011014-152330 GI: 256855887 lacks usable taxonomic information. Score-level: 389.0
+1126175 [main] DEBUG mpimarta.taxa  - Id: otu1968 time: 011014-152330 GI: 226925968 lacks usable taxonomic information. Score-level: 385.0
+1126175 [main] DEBUG mpimarta.taxa  - Id: otu1968 time: 011014-152330 GI: 163257843 lacks usable taxonomic information. Score-level: 383.0
+1126175 [main] DEBUG mpimarta.taxa  - Id: otu1968 time: 011014-152330 GI: 226925776 lacks usable taxonomic information. Score-level: 379.0
+1126175 [main] DEBUG mpimarta.taxa  - Id: otu1968 time: 011014-152330 GI: 219814042 lacks usable taxonomic information. Score-level: 373.0
+1126175 [main] DEBUG mpimarta.taxa  - Id: otu1968 time: 011014-152330 GI: 363502678 lacks usable taxonomic information. Score-level: 365.0
+1126175 [main] DEBUG mpimarta.taxa  - Id: otu1968 time: 011014-152330 GI: 226926528 lacks usable taxonomic information. Score-level: 365.0
+1126175 [main] DEBUG mpimarta.taxa  - Id: otu1968 time: 011014-152330 GI: 401466721 lacks usable taxonomic information. Score-level: 363.0
+1126175 [main] DEBUG mpimarta.taxa  - Id: otu1968 time: 011014-152330 GI: 226925685 lacks usable taxonomic information. Score-level: 359.0
+1126175 [main] DEBUG mpimarta.taxa  - Id: otu1968 time: 011014-152330 GI: 226926136 lacks usable taxonomic information. Score-level: 357.0
+1126175 [main] DEBUG mpimarta.taxa  - Id: otu1968 time: 011014-152330 GI: 305854895 lacks usable taxonomic information. Score-level: 353.0
+1126175 [main] DEBUG mpimarta.taxa  - Id: otu1968 time: 011014-152330 GI: 226929054 lacks usable taxonomic information. Score-level: 351.0
+1126181 [main] DEBUG mpimarta.taxa  - Id: otu1040 time: 011014-152330 Using slipscore: -0.75
+1126181 [main] DEBUG mpimarta.taxa  -  time: 011014-152330 There are no (valid) blast candidates for target-sequence: otu1040
+1126348 [main] DEBUG mpimarta.taxa  - Id: otu1043 time: 011014-152331 Using slipscore: 275.25
+1126348 [main] DEBUG mpimarta.taxa  - Id: otu1043 time: 011014-152331 GI: 339458804 lacks usable taxonomic information. Score-level: 367.0
+1126348 [main] DEBUG mpimarta.taxa  - Id: otu1043 time: 011014-152331 GI: 363500081 lacks usable taxonomic information. Score-level: 363.0
+1126348 [main] DEBUG mpimarta.taxa  - Id: otu1043 time: 011014-152331 GI: 292453916 lacks usable taxonomic information. Score-level: 363.0
+1126348 [main] DEBUG mpimarta.taxa  - Id: otu1043 time: 011014-152331 GI: 292453918 lacks usable taxonomic information. Score-level: 357.0
+1126348 [main] DEBUG mpimarta.taxa  - Id: otu1043 time: 011014-152331 GI: 363500990 lacks usable taxonomic information. Score-level: 335.0
+1126348 [main] DEBUG mpimarta.taxa  - Id: otu1043 time: 011014-152331 GI: 163257835 lacks usable taxonomic information. Score-level: 331.0
+1126348 [main] DEBUG mpimarta.taxa  - Id: otu1043 time: 011014-152331 GI: 224969736 lacks usable taxonomic information. Score-level: 323.0
+1126348 [main] DEBUG mpimarta.taxa  - Id: otu1043 time: 011014-152331 GI: 224971847 lacks usable taxonomic information. Score-level: 315.0
+1126348 [main] DEBUG mpimarta.taxa  - Id: otu1043 time: 011014-152331 GI: 304375545 lacks usable taxonomic information. Score-level: 309.0
+1126348 [main] DEBUG mpimarta.taxa  - Id: otu1043 time: 011014-152331 GI: 304375529 lacks usable taxonomic information. Score-level: 309.0
+1126348 [main] DEBUG mpimarta.taxa  - Id: otu1043 time: 011014-152331 GI: 304375540 lacks usable taxonomic information. Score-level: 309.0
+1126348 [main] DEBUG mpimarta.taxa  - Id: otu1043 time: 011014-152331 GI: 404248006 lacks usable taxonomic information. Score-level: 305.0
+1126348 [main] DEBUG mpimarta.taxa  - Id: otu1043 time: 011014-152331 GI: 544585072 lacks usable taxonomic information. Score-level: 305.0
+1126348 [main] DEBUG mpimarta.taxa  - Id: otu1043 time: 011014-152331 GI: 544586024 lacks usable taxonomic information. Score-level: 287.0
+1126348 [main] DEBUG mpimarta.taxa  - Id: otu1043 time: 011014-152331 GI: 363501522 lacks usable taxonomic information. Score-level: 287.0
+1126348 [main] DEBUG mpimarta.taxa  - Id: otu1043 time: 011014-152331 GI: 256855654 lacks usable taxonomic information. Score-level: 280.0
+1126348 [main] DEBUG mpimarta.taxa  - Id: otu1043 time: 011014-152331 GI: 90102607 lacks usable taxonomic information. Score-level: 280.0
+1126348 [main] DEBUG mpimarta.taxa  - Id: otu1043 time: 011014-152331 GI: 363500323 lacks usable taxonomic information. Score-level: 276.0
+1126348 [main] DEBUG mpimarta.taxa  -  time: 011014-152331 Analyzing OTU:otu1043 and gi:363500323 - Although we considered the top: 0 elements, we slipped past the slip-score.
+
+1126400 [main] DEBUG mpimarta.taxa  - Id: otu1990 time: 011014-152331 Using slipscore: 312.0
+1126406 [main] DEBUG mpimarta.taxa  - Id: otu1044 time: 011014-152331 Using slipscore: -0.75
+1126406 [main] DEBUG mpimarta.taxa  -  time: 011014-152331 There are no (valid) blast candidates for target-sequence: otu1044
+1126417 [main] DEBUG mpimarta.taxa  - Id: otu1041 time: 011014-152331 Using slipscore: 236.25
+1126417 [main] DEBUG mpimarta.taxa  - Id: otu1041 time: 011014-152331 GI: 532165332 lacks usable taxonomic information. Score-level: 315.0
+1126417 [main] DEBUG mpimarta.taxa  -  time: 011014-152331 Analyzing OTU:otu1041 and gi:532165332 - Although we considered the top: 0 elements, we slipped past the slip-score.
+
+1126457 [main] DEBUG mpimarta.taxa  - Id: otu1042 time: 011014-152331 Using slipscore: -0.75
+1126457 [main] DEBUG mpimarta.taxa  -  time: 011014-152331 There are no (valid) blast candidates for target-sequence: otu1042
+1126541 [main] DEBUG mpimarta.taxa  - Id: otu1994 time: 011014-152331 Using slipscore: 293.25
+1126541 [main] DEBUG mpimarta.taxa  - Id: otu1994 time: 011014-152331 GI: 224970769 lacks usable taxonomic information. Score-level: 391.0
+1126541 [main] DEBUG mpimarta.taxa  - Id: otu1994 time: 011014-152331 GI: 544585231 lacks usable taxonomic information. Score-level: 377.0
+1126541 [main] DEBUG mpimarta.taxa  - Id: otu1994 time: 011014-152331 GI: 259104149 lacks usable taxonomic information. Score-level: 375.0
+1126541 [main] DEBUG mpimarta.taxa  - Id: otu1994 time: 011014-152331 GI: 259109179 lacks usable taxonomic information. Score-level: 375.0
+1126541 [main] DEBUG mpimarta.taxa  - Id: otu1994 time: 011014-152331 GI: 259098097 lacks usable taxonomic information. Score-level: 369.0
+1126541 [main] DEBUG mpimarta.taxa  - Id: otu1994 time: 011014-152331 GI: 224973021 lacks usable taxonomic information. Score-level: 367.0
+1126541 [main] DEBUG mpimarta.taxa  - Id: otu1994 time: 011014-152331 GI: 224974982 lacks usable taxonomic information. Score-level: 359.0
+1126541 [main] DEBUG mpimarta.taxa  - Id: otu1994 time: 011014-152331 GI: 289718829 lacks usable taxonomic information. Score-level: 315.0
+1126541 [main] DEBUG mpimarta.taxa  -  time: 011014-152331 Analyzing OTU:otu1994 and gi:289718829 - Although we considered the top: 0 elements, we slipped past the slip-score.
+
+1126647 [main] DEBUG mpimarta.taxa  - Id: otu1048 time: 011014-152331 Using slipscore: 370.5
+1126693 [main] DEBUG mpimarta.taxa  - Id: otu3419 time: 011014-152331 Using slipscore: 202.5
+1126904 [main] DEBUG mpimarta.taxa  - Id: otu1993 time: 011014-152331 Using slipscore: 306.0
+1126904 [main] DEBUG mpimarta.taxa  - Id: otu1993 time: 011014-152331 GI: 291498443 lacks usable taxonomic information. Score-level: 408.0
+1126904 [main] DEBUG mpimarta.taxa  - Id: otu1993 time: 011014-152331 GI: 90102656 lacks usable taxonomic information. Score-level: 394.0
+1126904 [main] DEBUG mpimarta.taxa  - Id: otu1993 time: 011014-152331 GI: 90102657 lacks usable taxonomic information. Score-level: 394.0
+1126904 [main] DEBUG mpimarta.taxa  - Id: otu1993 time: 011014-152331 GI: 90102654 lacks usable taxonomic information. Score-level: 394.0
+1126904 [main] DEBUG mpimarta.taxa  - Id: otu1993 time: 011014-152331 GI: 291498482 lacks usable taxonomic information. Score-level: 385.0
+1126904 [main] DEBUG mpimarta.taxa  - Id: otu1993 time: 011014-152331 GI: 380003967 lacks usable taxonomic information. Score-level: 379.0
+1126904 [main] DEBUG mpimarta.taxa  - Id: otu1993 time: 011014-152331 GI: 317184087 lacks usable taxonomic information. Score-level: 365.0
+1126904 [main] DEBUG mpimarta.taxa  - Id: otu1993 time: 011014-152331 GI: 530692543 lacks usable taxonomic information. Score-level: 365.0
+1126905 [main] DEBUG mpimarta.taxa  - Id: otu1993 time: 011014-152331 GI: 317184086 lacks usable taxonomic information. Score-level: 365.0
+1126905 [main] DEBUG mpimarta.taxa  - Id: otu1993 time: 011014-152331 GI: 90102644 lacks usable taxonomic information. Score-level: 355.0
+1126905 [main] DEBUG mpimarta.taxa  - Id: otu1993 time: 011014-152331 GI: 90102641 lacks usable taxonomic information. Score-level: 355.0
+1126905 [main] DEBUG mpimarta.taxa  - Id: otu1993 time: 011014-152331 GI: 90102642 lacks usable taxonomic information. Score-level: 355.0
+1126905 [main] DEBUG mpimarta.taxa  - Id: otu1993 time: 011014-152331 GI: 190694229 lacks usable taxonomic information. Score-level: 349.0
+1126905 [main] DEBUG mpimarta.taxa  - Id: otu1993 time: 011014-152331 GI: 154002607 lacks usable taxonomic information. Score-level: 343.0
+1126911 [main] DEBUG mpimarta.taxa  - Id: otu3418 time: 011014-152331 Using slipscore: -0.75
+1126911 [main] DEBUG mpimarta.taxa  -  time: 011014-152331 There are no (valid) blast candidates for target-sequence: otu3418
+1127059 [main] DEBUG mpimarta.taxa  - Id: otu1992 time: 011014-152331 Using slipscore: 272.25
+1127059 [main] DEBUG mpimarta.taxa  - Id: otu1992 time: 011014-152331 GI: 363500081 lacks usable taxonomic information. Score-level: 363.0
+1127059 [main] DEBUG mpimarta.taxa  - Id: otu1992 time: 011014-152331 GI: 304375545 lacks usable taxonomic information. Score-level: 347.0
+1127059 [main] DEBUG mpimarta.taxa  - Id: otu1992 time: 011014-152331 GI: 304375529 lacks usable taxonomic information. Score-level: 347.0
+1127059 [main] DEBUG mpimarta.taxa  - Id: otu1992 time: 011014-152331 GI: 304375540 lacks usable taxonomic information. Score-level: 347.0
+1127059 [main] DEBUG mpimarta.taxa  - Id: otu1992 time: 011014-152331 GI: 224969736 lacks usable taxonomic information. Score-level: 323.0
+1127059 [main] DEBUG mpimarta.taxa  - Id: otu1992 time: 011014-152331 GI: 163257835 lacks usable taxonomic information. Score-level: 323.0
+1127059 [main] DEBUG mpimarta.taxa  - Id: otu1992 time: 011014-152331 GI: 292453918 lacks usable taxonomic information. Score-level: 311.0
+1127059 [main] DEBUG mpimarta.taxa  - Id: otu1992 time: 011014-152331 GI: 292453916 lacks usable taxonomic information. Score-level: 311.0
+1127059 [main] DEBUG mpimarta.taxa  - Id: otu1992 time: 011014-152331 GI: 224971847 lacks usable taxonomic information. Score-level: 299.0
+1127059 [main] DEBUG mpimarta.taxa  - Id: otu1992 time: 011014-152331 GI: 363500323 lacks usable taxonomic information. Score-level: 293.0
+1127059 [main] DEBUG mpimarta.taxa  - Id: otu1992 time: 011014-152331 GI: 363500990 lacks usable taxonomic information. Score-level: 293.0
+1127059 [main] DEBUG mpimarta.taxa  - Id: otu1992 time: 011014-152331 GI: 544586024 lacks usable taxonomic information. Score-level: 287.0
+1127059 [main] DEBUG mpimarta.taxa  - Id: otu1992 time: 011014-152331 GI: 256855654 lacks usable taxonomic information. Score-level: 278.0
+1127059 [main] DEBUG mpimarta.taxa  - Id: otu1992 time: 011014-152331 GI: 90102607 lacks usable taxonomic information. Score-level: 278.0
+1127059 [main] DEBUG mpimarta.taxa  -  time: 011014-152331 Analyzing OTU:otu1992 and gi:90102607 - Although we considered the top: 0 elements, we slipped past the slip-score.
+
+1127183 [main] DEBUG mpimarta.taxa  - Id: otu1991 time: 011014-152331 Using slipscore: 357.0
+1128010 [main] DEBUG mpimarta.taxa  - Id: otu1045 time: 011014-152332 Using slipscore: 399.75
+1128164 [main] DEBUG mpimarta.taxa  - Id: otu1998 time: 011014-152332 Using slipscore: 257.25
+1128282 [main] DEBUG mpimarta.taxa  - Id: otu1997 time: 011014-152333 Using slipscore: 354.0
+1128938 [main] DEBUG mpimarta.taxa  - Id: otu1996 time: 011014-152333 Using slipscore: 304.5
+1128938 [main] DEBUG mpimarta.taxa  - Id: otu1996 time: 011014-152333 GI: 521301744 lacks usable taxonomic information. Score-level: 406.0
+1128938 [main] DEBUG mpimarta.taxa  - Id: otu1996 time: 011014-152333 GI: 521301745 lacks usable taxonomic information. Score-level: 391.0
+1128938 [main] DEBUG mpimarta.taxa  - Id: otu1996 time: 011014-152333 GI: 521301743 lacks usable taxonomic information. Score-level: 391.0
+1129054 [main] DEBUG mpimarta.taxa  - Id: otu1995 time: 011014-152333 Using slipscore: 264.75
+1129054 [main] DEBUG mpimarta.taxa  - Id: otu1995 time: 011014-152333 GI: 224969736 lacks usable taxonomic information. Score-level: 353.0
+1129054 [main] DEBUG mpimarta.taxa  - Id: otu1995 time: 011014-152333 GI: 363500081 lacks usable taxonomic information. Score-level: 345.0
+1129054 [main] DEBUG mpimarta.taxa  - Id: otu1995 time: 011014-152333 GI: 224971847 lacks usable taxonomic information. Score-level: 345.0
+1129054 [main] DEBUG mpimarta.taxa  - Id: otu1995 time: 011014-152333 GI: 163257835 lacks usable taxonomic information. Score-level: 337.0
+1129054 [main] DEBUG mpimarta.taxa  - Id: otu1995 time: 011014-152333 GI: 256855654 lacks usable taxonomic information. Score-level: 323.0
+1129054 [main] DEBUG mpimarta.taxa  - Id: otu1995 time: 011014-152333 GI: 90102607 lacks usable taxonomic information. Score-level: 323.0
+1129054 [main] DEBUG mpimarta.taxa  - Id: otu1995 time: 011014-152333 GI: 363500323 lacks usable taxonomic information. Score-level: 307.0
+1129054 [main] DEBUG mpimarta.taxa  - Id: otu1995 time: 011014-152333 GI: 363501522 lacks usable taxonomic information. Score-level: 305.0
+1129054 [main] DEBUG mpimarta.taxa  - Id: otu1995 time: 011014-152333 GI: 292453918 lacks usable taxonomic information. Score-level: 301.0
+1129054 [main] DEBUG mpimarta.taxa  - Id: otu1995 time: 011014-152333 GI: 292453916 lacks usable taxonomic information. Score-level: 301.0
+1129054 [main] DEBUG mpimarta.taxa  - Id: otu1995 time: 011014-152333 GI: 544586130 lacks usable taxonomic information. Score-level: 299.0
+1129054 [main] DEBUG mpimarta.taxa  - Id: otu1995 time: 011014-152333 GI: 363500990 lacks usable taxonomic information. Score-level: 299.0
+1129054 [main] DEBUG mpimarta.taxa  - Id: otu1995 time: 011014-152333 GI: 404248007 lacks usable taxonomic information. Score-level: 293.0
+1129054 [main] DEBUG mpimarta.taxa  - Id: otu1995 time: 011014-152333 GI: 514825731 lacks usable taxonomic information. Score-level: 281.0
+1129054 [main] DEBUG mpimarta.taxa  - Id: otu1995 time: 011014-152333 GI: 544586024 lacks usable taxonomic information. Score-level: 278.0
+1129054 [main] DEBUG mpimarta.taxa  - Id: otu1995 time: 011014-152333 GI: 363501546 lacks usable taxonomic information. Score-level: 272.0
+1129054 [main] DEBUG mpimarta.taxa  - Id: otu1995 time: 011014-152333 GI: 544585072 lacks usable taxonomic information. Score-level: 270.0
+1129054 [main] DEBUG mpimarta.taxa  - Id: otu1995 time: 011014-152333 GI: 363501969 lacks usable taxonomic information. Score-level: 268.0
+1129054 [main] DEBUG mpimarta.taxa  -  time: 011014-152333 Analyzing OTU:otu1995 and gi:363501969 - Although we considered the top: 0 elements, we slipped past the slip-score.
+
+1129060 [main] DEBUG mpimarta.taxa  - Id: otu1049 time: 011014-152333 Using slipscore: -0.75
+1129060 [main] DEBUG mpimarta.taxa  -  time: 011014-152333 There are no (valid) blast candidates for target-sequence: otu1049
+1129486 [main] DEBUG mpimarta.taxa  - Id: otu3411 time: 011014-152334 Using slipscore: 333.0
+1129486 [main] DEBUG mpimarta.taxa  - Id: otu3411 time: 011014-152334 GI: 387583141 lacks usable taxonomic information. Score-level: 444.0
+1129486 [main] DEBUG mpimarta.taxa  - Id: otu3411 time: 011014-152334 GI: 387583069 lacks usable taxonomic information. Score-level: 444.0
+1129486 [main] DEBUG mpimarta.taxa  - Id: otu3411 time: 011014-152334 GI: 305379173 lacks usable taxonomic information. Score-level: 444.0
+1129486 [main] DEBUG mpimarta.taxa  - Id: otu3411 time: 011014-152334 GI: 421932807 lacks usable taxonomic information. Score-level: 444.0
+1129486 [main] DEBUG mpimarta.taxa  - Id: otu3411 time: 011014-152334 GI: 387583290 lacks usable taxonomic information. Score-level: 444.0
+1129486 [main] DEBUG mpimarta.taxa  - Id: otu3411 time: 011014-152334 GI: 387583264 lacks usable taxonomic information. Score-level: 444.0
+1129486 [main] DEBUG mpimarta.taxa  - Id: otu3411 time: 011014-152334 GI: 387583156 lacks usable taxonomic information. Score-level: 444.0
+1129486 [main] DEBUG mpimarta.taxa  - Id: otu3411 time: 011014-152334 GI: 387583130 lacks usable taxonomic information. Score-level: 444.0
+1129486 [main] DEBUG mpimarta.taxa  - Id: otu3411 time: 011014-152334 GI: 387582905 lacks usable taxonomic information. Score-level: 444.0
+1129486 [main] DEBUG mpimarta.taxa  - Id: otu3411 time: 011014-152334 GI: 387583277 lacks usable taxonomic information. Score-level: 444.0
+1129486 [main] DEBUG mpimarta.taxa  - Id: otu3411 time: 011014-152334 GI: 387583036 lacks usable taxonomic information. Score-level: 444.0
+1129486 [main] DEBUG mpimarta.taxa  - Id: otu3411 time: 011014-152334 GI: 387583012 lacks usable taxonomic information. Score-level: 444.0
+1129486 [main] DEBUG mpimarta.taxa  - Id: otu3411 time: 011014-152334 GI: 530721732 lacks usable taxonomic information. Score-level: 444.0
+1129486 [main] DEBUG mpimarta.taxa  - Id: otu3411 time: 011014-152334 GI: 537743806 lacks usable taxonomic information. Score-level: 444.0
+1129486 [main] DEBUG mpimarta.taxa  - Id: otu3411 time: 011014-152334 GI: 387583236 lacks usable taxonomic information. Score-level: 444.0
+1129486 [main] DEBUG mpimarta.taxa  - Id: otu3411 time: 011014-152334 GI: 219813072 lacks usable taxonomic information. Score-level: 444.0
+1129486 [main] DEBUG mpimarta.taxa  - Id: otu3411 time: 011014-152334 GI: 170516696 lacks usable taxonomic information. Score-level: 444.0
+1129486 [main] DEBUG mpimarta.taxa  - Id: otu3411 time: 011014-152334 GI: 90102552 lacks usable taxonomic information. Score-level: 444.0
+1129486 [main] DEBUG mpimarta.taxa  - Id: otu3411 time: 011014-152334 GI: 170516489 lacks usable taxonomic information. Score-level: 444.0
+1129486 [main] DEBUG mpimarta.taxa  - Id: otu3411 time: 011014-152334 GI: 183013816 lacks usable taxonomic information. Score-level: 444.0
+1129486 [main] DEBUG mpimarta.taxa  - Id: otu3411 time: 011014-152334 GI: 170516709 lacks usable taxonomic information. Score-level: 444.0
+1129486 [main] DEBUG mpimarta.taxa  - Id: otu3411 time: 011014-152334 GI: 387583071 lacks usable taxonomic information. Score-level: 444.0
+1130249 [main] DEBUG mpimarta.taxa  - Id: otu3410 time: 011014-152335 Using slipscore: 316.5
+1130249 [main] DEBUG mpimarta.taxa  - Id: otu3410 time: 011014-152335 GI: 224970136 lacks usable taxonomic information. Score-level: 422.0
+1130249 [main] DEBUG mpimarta.taxa  - Id: otu3410 time: 011014-152335 GI: 224974308 lacks usable taxonomic information. Score-level: 414.0
+1130249 [main] DEBUG mpimarta.taxa  - Id: otu3410 time: 011014-152335 GI: 224973831 lacks usable taxonomic information. Score-level: 406.0
+1130249 [main] DEBUG mpimarta.taxa  - Id: otu3410 time: 011014-152335 GI: 300086088 lacks usable taxonomic information. Score-level: 406.0
+1130249 [main] DEBUG mpimarta.taxa  - Id: otu3410 time: 011014-152335 GI: 259106836 lacks usable taxonomic information. Score-level: 406.0
+1130249 [main] DEBUG mpimarta.taxa  - Id: otu3410 time: 011014-152335 GI: 256855909 lacks usable taxonomic information. Score-level: 404.0
+1130249 [main] DEBUG mpimarta.taxa  - Id: otu3410 time: 011014-152335 GI: 224970055 lacks usable taxonomic information. Score-level: 402.0
+1130249 [main] DEBUG mpimarta.taxa  - Id: otu3410 time: 011014-152335 GI: 223016916 lacks usable taxonomic information. Score-level: 400.0
+1130249 [main] DEBUG mpimarta.taxa  - Id: otu3410 time: 011014-152335 GI: 556823317 lacks usable taxonomic information. Score-level: 400.0
+1130891 [main] DEBUG mpimarta.taxa  - Id: otu3413 time: 011014-152335 Using slipscore: 325.5
+1130891 [main] DEBUG mpimarta.taxa  - Id: otu3413 time: 011014-152335 GI: 224975477 lacks usable taxonomic information. Score-level: 434.0
+1130891 [main] DEBUG mpimarta.taxa  - Id: otu3413 time: 011014-152335 GI: 259095185 lacks usable taxonomic information. Score-level: 434.0
+1130891 [main] DEBUG mpimarta.taxa  - Id: otu3413 time: 011014-152335 GI: 224970153 lacks usable taxonomic information. Score-level: 426.0
+1130891 [main] DEBUG mpimarta.taxa  - Id: otu3413 time: 011014-152335 GI: 259094719 lacks usable taxonomic information. Score-level: 426.0
+1130891 [main] DEBUG mpimarta.taxa  - Id: otu3413 time: 011014-152335 GI: 259093656 lacks usable taxonomic information. Score-level: 426.0
+1130891 [main] DEBUG mpimarta.taxa  - Id: otu3413 time: 011014-152335 GI: 259099398 lacks usable taxonomic information. Score-level: 420.0
+1130891 [main] DEBUG mpimarta.taxa  - Id: otu3413 time: 011014-152335 GI: 259094578 lacks usable taxonomic information. Score-level: 420.0
+1130891 [main] DEBUG mpimarta.taxa  - Id: otu3413 time: 011014-152335 GI: 259109125 lacks usable taxonomic information. Score-level: 420.0
+1130891 [main] DEBUG mpimarta.taxa  - Id: otu3413 time: 011014-152335 GI: 259106071 lacks usable taxonomic information. Score-level: 420.0
+1130891 [main] DEBUG mpimarta.taxa  - Id: otu3413 time: 011014-152335 GI: 224973732 lacks usable taxonomic information. Score-level: 418.0
+1130891 [main] DEBUG mpimarta.taxa  - Id: otu3413 time: 011014-152335 GI: 224973115 lacks usable taxonomic information. Score-level: 418.0
+1130891 [main] DEBUG mpimarta.taxa  - Id: otu3413 time: 011014-152335 GI: 259092068 lacks usable taxonomic information. Score-level: 418.0
+1130891 [main] DEBUG mpimarta.taxa  - Id: otu3413 time: 011014-152335 GI: 259094962 lacks usable taxonomic information. Score-level: 418.0
+1130891 [main] DEBUG mpimarta.taxa  - Id: otu3413 time: 011014-152335 GI: 259095090 lacks usable taxonomic information. Score-level: 418.0
+1130891 [main] DEBUG mpimarta.taxa  - Id: otu3413 time: 011014-152335 GI: 259093632 lacks usable taxonomic information. Score-level: 418.0
+1130891 [main] DEBUG mpimarta.taxa  - Id: otu3413 time: 011014-152335 GI: 224970440 lacks usable taxonomic information. Score-level: 418.0
+1130891 [main] DEBUG mpimarta.taxa  - Id: otu3413 time: 011014-152335 GI: 259093396 lacks usable taxonomic information. Score-level: 418.0
+1130891 [main] DEBUG mpimarta.taxa  - Id: otu3413 time: 011014-152335 GI: 259104999 lacks usable taxonomic information. Score-level: 414.0
+1130891 [main] DEBUG mpimarta.taxa  - Id: otu3413 time: 011014-152335 GI: 521301696 lacks usable taxonomic information. Score-level: 414.0
+1130891 [main] DEBUG mpimarta.taxa  - Id: otu3413 time: 011014-152335 GI: 259097249 lacks usable taxonomic information. Score-level: 414.0
+1130891 [main] DEBUG mpimarta.taxa  - Id: otu3413 time: 011014-152335 GI: 259101901 lacks usable taxonomic information. Score-level: 412.0
+1130892 [main] DEBUG mpimarta.taxa  - Id: otu3413 time: 011014-152335 GI: 259092877 lacks usable taxonomic information. Score-level: 412.0
+1130892 [main] DEBUG mpimarta.taxa  - Id: otu3413 time: 011014-152335 GI: 292453532 lacks usable taxonomic information. Score-level: 412.0
+1130892 [main] DEBUG mpimarta.taxa  - Id: otu3413 time: 011014-152335 GI: 259107327 lacks usable taxonomic information. Score-level: 412.0
+1130892 [main] DEBUG mpimarta.taxa  - Id: otu3413 time: 011014-152335 GI: 90102678 lacks usable taxonomic information. Score-level: 412.0
+1130892 [main] DEBUG mpimarta.taxa  - Id: otu3413 time: 011014-152335 GI: 224970686 lacks usable taxonomic information. Score-level: 412.0
+1130892 [main] DEBUG mpimarta.taxa  - Id: otu3413 time: 011014-152335 GI: 154001372 lacks usable taxonomic information. Score-level: 412.0
+1130892 [main] DEBUG mpimarta.taxa  - Id: otu3413 time: 011014-152335 GI: 300959434 lacks usable taxonomic information. Score-level: 412.0
+1130892 [main] DEBUG mpimarta.taxa  - Id: otu3413 time: 011014-152335 GI: 298573049 lacks usable taxonomic information. Score-level: 412.0
+1130892 [main] DEBUG mpimarta.taxa  - Id: otu3413 time: 011014-152335 GI: 225638401 lacks usable taxonomic information. Score-level: 412.0
+1130892 [main] DEBUG mpimarta.taxa  - Id: otu3413 time: 011014-152335 GI: 314914007 lacks usable taxonomic information. Score-level: 412.0
+1130892 [main] DEBUG mpimarta.taxa  - Id: otu3413 time: 011014-152335 GI: 259093985 lacks usable taxonomic information. Score-level: 412.0
+1130892 [main] DEBUG mpimarta.taxa  - Id: otu3413 time: 011014-152335 GI: 110555844 lacks usable taxonomic information. Score-level: 412.0
+1130892 [main] DEBUG mpimarta.taxa  - Id: otu3413 time: 011014-152335 GI: 224974094 lacks usable taxonomic information. Score-level: 412.0
+1130892 [main] DEBUG mpimarta.taxa  - Id: otu3413 time: 011014-152335 GI: 90102677 lacks usable taxonomic information. Score-level: 412.0
+1130892 [main] DEBUG mpimarta.taxa  - Id: otu3413 time: 011014-152335 GI: 295883726 lacks usable taxonomic information. Score-level: 412.0
+1130892 [main] DEBUG mpimarta.taxa  - Id: otu3413 time: 011014-152335 GI: 259106133 lacks usable taxonomic information. Score-level: 412.0
+1130892 [main] DEBUG mpimarta.taxa  - Id: otu3413 time: 011014-152335 GI: 85719159 lacks usable taxonomic information. Score-level: 412.0
+1130892 [main] DEBUG mpimarta.taxa  - Id: otu3413 time: 011014-152335 GI: 407830434 lacks usable taxonomic information. Score-level: 412.0
+1130892 [main] DEBUG mpimarta.taxa  - Id: otu3413 time: 011014-152335 GI: 224975359 lacks usable taxonomic information. Score-level: 412.0
+1130892 [main] DEBUG mpimarta.taxa  - Id: otu3413 time: 011014-152335 GI: 224969626 lacks usable taxonomic information. Score-level: 412.0
+1130892 [main] DEBUG mpimarta.taxa  - Id: otu3413 time: 011014-152335 GI: 224969435 lacks usable taxonomic information. Score-level: 412.0
+1130892 [main] DEBUG mpimarta.taxa  - Id: otu3413 time: 011014-152335 GI: 310814081 lacks usable taxonomic information. Score-level: 412.0
+1130892 [main] DEBUG mpimarta.taxa  - Id: otu3413 time: 011014-152335 GI: 530692549 lacks usable taxonomic information. Score-level: 412.0
+1130892 [main] DEBUG mpimarta.taxa  - Id: otu3413 time: 011014-152335 GI: 259109144 lacks usable taxonomic information. Score-level: 412.0
+1130892 [main] DEBUG mpimarta.taxa  - Id: otu3413 time: 011014-152335 GI: 301128672 lacks usable taxonomic information. Score-level: 412.0
+1130892 [main] DEBUG mpimarta.taxa  - Id: otu3413 time: 011014-152335 GI: 259099659 lacks usable taxonomic information. Score-level: 412.0
+1130892 [main] DEBUG mpimarta.taxa  - Id: otu3413 time: 011014-152335 GI: 259096730 lacks usable taxonomic information. Score-level: 412.0
+1130892 [main] DEBUG mpimarta.taxa  - Id: otu3413 time: 011014-152335 GI: 224969761 lacks usable taxonomic information. Score-level: 412.0
+1130892 [main] DEBUG mpimarta.taxa  - Id: otu3413 time: 011014-152335 GI: 530692550 lacks usable taxonomic information. Score-level: 412.0
+1130892 [main] DEBUG mpimarta.taxa  - Id: otu3413 time: 011014-152335 GI: 224975501 lacks usable taxonomic information. Score-level: 412.0
+1130892 [main] DEBUG mpimarta.taxa  - Id: otu3413 time: 011014-152335 GI: 224970024 lacks usable taxonomic information. Score-level: 412.0
+1130892 [main] DEBUG mpimarta.taxa  - Id: otu3413 time: 011014-152335 GI: 259094812 lacks usable taxonomic information. Score-level: 412.0
+1130892 [main] DEBUG mpimarta.taxa  - Id: otu3413 time: 011014-152335 GI: 163257894 lacks usable taxonomic information. Score-level: 412.0
+1130892 [main] DEBUG mpimarta.taxa  - Id: otu3413 time: 011014-152335 GI: 85719182 lacks usable taxonomic information. Score-level: 412.0
+1130892 [main] DEBUG mpimarta.taxa  - Id: otu3413 time: 011014-152335 GI: 310753638 lacks usable taxonomic information. Score-level: 412.0
+1130892 [main] DEBUG mpimarta.taxa  - Id: otu3413 time: 011014-152335 GI: 85719183 lacks usable taxonomic information. Score-level: 412.0
+1130892 [main] DEBUG mpimarta.taxa  - Id: otu3413 time: 011014-152335 GI: 311408911 lacks usable taxonomic information. Score-level: 412.0
+1130892 [main] DEBUG mpimarta.taxa  - Id: otu3413 time: 011014-152335 GI: 301128673 lacks usable taxonomic information. Score-level: 412.0
+1130892 [main] DEBUG mpimarta.taxa  - Id: otu3413 time: 011014-152335 GI: 284520031 lacks usable taxonomic information. Score-level: 412.0
+1130892 [main] DEBUG mpimarta.taxa  - Id: otu3413 time: 011014-152335 GI: 259105054 lacks usable taxonomic information. Score-level: 412.0
+1131040 [main] DEBUG mpimarta.taxa  - Id: otu1999 time: 011014-152335 Using slipscore: 270.75
+1131040 [main] DEBUG mpimarta.taxa  - Id: otu1999 time: 011014-152335 GI: 224974966 lacks usable taxonomic information. Score-level: 361.0
+1131040 [main] DEBUG mpimarta.taxa  - Id: otu1999 time: 011014-152335 GI: 506616718 lacks usable taxonomic information. Score-level: 339.0
+1131040 [main] DEBUG mpimarta.taxa  - Id: otu1999 time: 011014-152335 GI: 400973779 lacks usable taxonomic information. Score-level: 339.0
+1131040 [main] DEBUG mpimarta.taxa  - Id: otu1999 time: 011014-152335 GI: 400973785 lacks usable taxonomic information. Score-level: 339.0
+1131404 [main] DEBUG mpimarta.taxa  - Id: otu3412 time: 011014-152336 Using slipscore: 319.5
+1131404 [main] DEBUG mpimarta.taxa  - Id: otu3412 time: 011014-152336 GI: 531988375 lacks usable taxonomic information. Score-level: 426.0
+1131404 [main] DEBUG mpimarta.taxa  - Id: otu3412 time: 011014-152336 GI: 226925799 lacks usable taxonomic information. Score-level: 394.0
+1131404 [main] DEBUG mpimarta.taxa  - Id: otu3412 time: 011014-152336 GI: 226927662 lacks usable taxonomic information. Score-level: 381.0
+1131404 [main] DEBUG mpimarta.taxa  - Id: otu3412 time: 011014-152336 GI: 226925819 lacks usable taxonomic information. Score-level: 381.0
+1131404 [main] DEBUG mpimarta.taxa  - Id: otu3412 time: 011014-152336 GI: 226927757 lacks usable taxonomic information. Score-level: 381.0
+1131404 [main] DEBUG mpimarta.taxa  - Id: otu3412 time: 011014-152336 GI: 226929014 lacks usable taxonomic information. Score-level: 373.0
+1131777 [main] DEBUG mpimarta.taxa  - Id: otu3415 time: 011014-152336 Using slipscore: 330.0
+1131777 [main] DEBUG mpimarta.taxa  - Id: otu3415 time: 011014-152336 GI: 307334199 lacks usable taxonomic information. Score-level: 440.0
+1131777 [main] DEBUG mpimarta.taxa  - Id: otu3415 time: 011014-152336 GI: 226349127 lacks usable taxonomic information. Score-level: 432.0
+1131777 [main] DEBUG mpimarta.taxa  - Id: otu3415 time: 011014-152336 GI: 339459490 lacks usable taxonomic information. Score-level: 424.0
+1131777 [main] DEBUG mpimarta.taxa  - Id: otu3415 time: 011014-152336 GI: 224974418 lacks usable taxonomic information. Score-level: 424.0
+1131777 [main] DEBUG mpimarta.taxa  - Id: otu3415 time: 011014-152336 GI: 377692255 lacks usable taxonomic information. Score-level: 418.0
+1131777 [main] DEBUG mpimarta.taxa  - Id: otu3415 time: 011014-152336 GI: 259105879 lacks usable taxonomic information. Score-level: 392.0
+1131777 [main] DEBUG mpimarta.taxa  - Id: otu3415 time: 011014-152336 GI: 363502618 lacks usable taxonomic information. Score-level: 392.0
+1131777 [main] DEBUG mpimarta.taxa  - Id: otu3415 time: 011014-152336 GI: 339459508 lacks usable taxonomic information. Score-level: 392.0
+1131777 [main] DEBUG mpimarta.taxa  - Id: otu3415 time: 011014-152336 GI: 259104502 lacks usable taxonomic information. Score-level: 392.0
+1131777 [main] DEBUG mpimarta.taxa  - Id: otu3415 time: 011014-152336 GI: 224970838 lacks usable taxonomic information. Score-level: 392.0
+1131777 [main] DEBUG mpimarta.taxa  - Id: otu3415 time: 011014-152336 GI: 224971093 lacks usable taxonomic information. Score-level: 392.0
+1131777 [main] DEBUG mpimarta.taxa  - Id: otu3415 time: 011014-152336 GI: 224970784 lacks usable taxonomic information. Score-level: 385.0
+1131777 [main] DEBUG mpimarta.taxa  - Id: otu3415 time: 011014-152336 GI: 259098224 lacks usable taxonomic information. Score-level: 385.0
+1131777 [main] DEBUG mpimarta.taxa  - Id: otu3415 time: 011014-152336 GI: 259091310 lacks usable taxonomic information. Score-level: 385.0
+1131777 [main] DEBUG mpimarta.taxa  - Id: otu3415 time: 011014-152336 GI: 224972133 lacks usable taxonomic information. Score-level: 377.0
+1131777 [main] DEBUG mpimarta.taxa  - Id: otu3415 time: 011014-152336 GI: 259105684 lacks usable taxonomic information. Score-level: 377.0
+1131777 [main] DEBUG mpimarta.taxa  - Id: otu3415 time: 011014-152336 GI: 259107073 lacks usable taxonomic information. Score-level: 377.0
+1131777 [main] DEBUG mpimarta.taxa  - Id: otu3415 time: 011014-152336 GI: 259097848 lacks usable taxonomic information. Score-level: 377.0
+1131777 [main] DEBUG mpimarta.taxa  - Id: otu3415 time: 011014-152336 GI: 259097573 lacks usable taxonomic information. Score-level: 377.0
+1131777 [main] DEBUG mpimarta.taxa  - Id: otu3415 time: 011014-152336 GI: 224971844 lacks usable taxonomic information. Score-level: 377.0
+1131777 [main] DEBUG mpimarta.taxa  - Id: otu3415 time: 011014-152336 GI: 224973722 lacks usable taxonomic information. Score-level: 377.0
+1131777 [main] DEBUG mpimarta.taxa  - Id: otu3415 time: 011014-152336 GI: 259103675 lacks usable taxonomic information. Score-level: 371.0
+1131777 [main] DEBUG mpimarta.taxa  - Id: otu3415 time: 011014-152336 GI: 259092652 lacks usable taxonomic information. Score-level: 371.0
+1131777 [main] DEBUG mpimarta.taxa  - Id: otu3415 time: 011014-152336 GI: 224971338 lacks usable taxonomic information. Score-level: 369.0
+1131777 [main] DEBUG mpimarta.taxa  - Id: otu3415 time: 011014-152336 GI: 259105476 lacks usable taxonomic information. Score-level: 369.0
+1131777 [main] DEBUG mpimarta.taxa  - Id: otu3415 time: 011014-152336 GI: 224975161 lacks usable taxonomic information. Score-level: 369.0
+1131777 [main] DEBUG mpimarta.taxa  - Id: otu3415 time: 011014-152336 GI: 259107368 lacks usable taxonomic information. Score-level: 363.0
+1131777 [main] DEBUG mpimarta.taxa  - Id: otu3415 time: 011014-152336 GI: 224969530 lacks usable taxonomic information. Score-level: 363.0
+1131777 [main] DEBUG mpimarta.taxa  - Id: otu3415 time: 011014-152336 GI: 224969872 lacks usable taxonomic information. Score-level: 363.0
+1131777 [main] DEBUG mpimarta.taxa  - Id: otu3415 time: 011014-152336 GI: 224974879 lacks usable taxonomic information. Score-level: 363.0
+1131777 [main] DEBUG mpimarta.taxa  - Id: otu3415 time: 011014-152336 GI: 224975525 lacks usable taxonomic information. Score-level: 361.0
+1131777 [main] DEBUG mpimarta.taxa  - Id: otu3415 time: 011014-152336 GI: 224971728 lacks usable taxonomic information. Score-level: 355.0
+1131777 [main] DEBUG mpimarta.taxa  - Id: otu3415 time: 011014-152336 GI: 224971278 lacks usable taxonomic information. Score-level: 355.0
+1131777 [main] DEBUG mpimarta.taxa  - Id: otu3415 time: 011014-152336 GI: 224974975 lacks usable taxonomic information. Score-level: 355.0
+1131777 [main] DEBUG mpimarta.taxa  - Id: otu3415 time: 011014-152336 GI: 259102637 lacks usable taxonomic information. Score-level: 355.0
+1131777 [main] DEBUG mpimarta.taxa  - Id: otu3415 time: 011014-152336 GI: 259098580 lacks usable taxonomic information. Score-level: 355.0
+1131777 [main] DEBUG mpimarta.taxa  - Id: otu3415 time: 011014-152336 GI: 224969582 lacks usable taxonomic information. Score-level: 355.0
+1131777 [main] DEBUG mpimarta.taxa  - Id: otu3415 time: 011014-152336 GI: 259106684 lacks usable taxonomic information. Score-level: 355.0
+1131777 [main] DEBUG mpimarta.taxa  - Id: otu3415 time: 011014-152336 GI: 259102952 lacks usable taxonomic information. Score-level: 355.0
+1131777 [main] DEBUG mpimarta.taxa  - Id: otu3415 time: 011014-152336 GI: 259108305 lacks usable taxonomic information. Score-level: 353.0
+1131777 [main] DEBUG mpimarta.taxa  - Id: otu3415 time: 011014-152336 GI: 259092561 lacks usable taxonomic information. Score-level: 353.0
+1131777 [main] DEBUG mpimarta.taxa  - Id: otu3415 time: 011014-152336 GI: 224972044 lacks usable taxonomic information. Score-level: 353.0
+1131777 [main] DEBUG mpimarta.taxa  - Id: otu3415 time: 011014-152336 GI: 259090800 lacks usable taxonomic information. Score-level: 349.0
+1131777 [main] DEBUG mpimarta.taxa  - Id: otu3415 time: 011014-152336 GI: 224971415 lacks usable taxonomic information. Score-level: 347.0
+1131777 [main] DEBUG mpimarta.taxa  - Id: otu3415 time: 011014-152336 GI: 259090847 lacks usable taxonomic information. Score-level: 347.0
+1131777 [main] DEBUG mpimarta.taxa  - Id: otu3415 time: 011014-152336 GI: 259093946 lacks usable taxonomic information. Score-level: 347.0
+1131777 [main] DEBUG mpimarta.taxa  - Id: otu3415 time: 011014-152336 GI: 224974696 lacks usable taxonomic information. Score-level: 347.0
+1131777 [main] DEBUG mpimarta.taxa  - Id: otu3415 time: 011014-152336 GI: 224970410 lacks usable taxonomic information. Score-level: 347.0
+1131777 [main] DEBUG mpimarta.taxa  - Id: otu3415 time: 011014-152336 GI: 224970942 lacks usable taxonomic information. Score-level: 347.0
+1131777 [main] DEBUG mpimarta.taxa  - Id: otu3415 time: 011014-152336 GI: 259093731 lacks usable taxonomic information. Score-level: 347.0
+1131777 [main] DEBUG mpimarta.taxa  - Id: otu3415 time: 011014-152336 GI: 259095328 lacks usable taxonomic information. Score-level: 345.0
+1131777 [main] DEBUG mpimarta.taxa  - Id: otu3415 time: 011014-152336 GI: 224974850 lacks usable taxonomic information. Score-level: 341.0
+1131777 [main] DEBUG mpimarta.taxa  - Id: otu3415 time: 011014-152336 GI: 259091259 lacks usable taxonomic information. Score-level: 339.0
+1131777 [main] DEBUG mpimarta.taxa  - Id: otu3415 time: 011014-152336 GI: 259092730 lacks usable taxonomic information. Score-level: 339.0
+1131777 [main] DEBUG mpimarta.taxa  - Id: otu3415 time: 011014-152336 GI: 224969923 lacks usable taxonomic information. Score-level: 339.0
+1131777 [main] DEBUG mpimarta.taxa  - Id: otu3415 time: 011014-152336 GI: 259104349 lacks usable taxonomic information. Score-level: 339.0
+1131777 [main] DEBUG mpimarta.taxa  - Id: otu3415 time: 011014-152336 GI: 224973965 lacks usable taxonomic information. Score-level: 337.0
+1131777 [main] DEBUG mpimarta.taxa  - Id: otu3415 time: 011014-152336 GI: 259096615 lacks usable taxonomic information. Score-level: 333.0
+1131777 [main] DEBUG mpimarta.taxa  - Id: otu3415 time: 011014-152336 GI: 224975229 lacks usable taxonomic information. Score-level: 333.0
+1131777 [main] DEBUG mpimarta.taxa  - Id: otu3415 time: 011014-152336 GI: 259104564 lacks usable taxonomic information. Score-level: 331.0
+1131777 [main] DEBUG mpimarta.taxa  -  time: 011014-152336 Analyzing OTU:otu3415 and gi:259104564 - Although we considered the top: 0 elements, we slipped past the slip-score.
+
+1131809 [main] DEBUG mpimarta.taxa  - Id: otu3414 time: 011014-152336 Using slipscore: 208.5
+1131810 [main] DEBUG mpimarta.taxa  - Id: otu3414 time: 011014-152336 GI: 187937315 lacks usable taxonomic information. Score-level: 278.0
+1131810 [main] DEBUG mpimarta.taxa  - Id: otu3414 time: 011014-152336 GI: 292453656 lacks usable taxonomic information. Score-level: 270.0
+1131810 [main] DEBUG mpimarta.taxa  - Id: otu3414 time: 011014-152336 GI: 292453655 lacks usable taxonomic information. Score-level: 270.0
+1131810 [main] DEBUG mpimarta.taxa  - Id: otu3414 time: 011014-152336 GI: 187937317 lacks usable taxonomic information. Score-level: 244.0
+1131810 [main] DEBUG mpimarta.taxa  -  time: 011014-152336 Analyzing OTU:otu3414 and gi:187937317 - Although we considered the top: 0 elements, we slipped past the slip-score.
+
+1131886 [main] DEBUG mpimarta.taxa  - Id: otu3417 time: 011014-152336 Using slipscore: 295.5
+1131886 [main] DEBUG mpimarta.taxa  - Id: otu3417 time: 011014-152336 GI: 299777175 lacks usable taxonomic information. Score-level: 394.0
+1131886 [main] DEBUG mpimarta.taxa  - Id: otu3417 time: 011014-152336 GI: 212725725 lacks usable taxonomic information. Score-level: 335.0
+1131886 [main] DEBUG mpimarta.taxa  - Id: otu3417 time: 011014-152336 GI: 262225585 lacks usable taxonomic information. Score-level: 321.0
+1132254 [main] DEBUG mpimarta.taxa  - Id: otu3416 time: 011014-152337 Using slipscore: 227.25
+1132254 [main] DEBUG mpimarta.taxa  - Id: otu3416 time: 011014-152337 GI: 363501414 lacks usable taxonomic information. Score-level: 303.0
+1132254 [main] DEBUG mpimarta.taxa  -  time: 011014-152337 Analyzing OTU:otu3416 and gi:363501414 - Although we considered the top: 0 elements, we slipped past the slip-score.
+
+1132461 [main] DEBUG mpimarta.taxa  - Id: otu1050 time: 011014-152337 Using slipscore: 373.5
+1132461 [main] DEBUG mpimarta.taxa  - Id: otu1050 time: 011014-152337 GI: 363500544 lacks usable taxonomic information. Score-level: 498.0
+1132461 [main] DEBUG mpimarta.taxa  - Id: otu1050 time: 011014-152337 GI: 363411856 lacks usable taxonomic information. Score-level: 456.0
+1132461 [main] DEBUG mpimarta.taxa  - Id: otu1050 time: 011014-152337 GI: 339458411 lacks usable taxonomic information. Score-level: 454.0
+1132461 [main] DEBUG mpimarta.taxa  - Id: otu1050 time: 011014-152337 GI: 163257842 lacks usable taxonomic information. Score-level: 420.0
+1132632 [main] DEBUG mpimarta.taxa  - Id: otu1051 time: 011014-152337 Using slipscore: 321.0
+1132632 [main] DEBUG mpimarta.taxa  - Id: otu1051 time: 011014-152337 GI: 226925968 lacks usable taxonomic information. Score-level: 428.0
+1132632 [main] DEBUG mpimarta.taxa  - Id: otu1051 time: 011014-152337 GI: 256855887 lacks usable taxonomic information. Score-level: 422.0
+1132632 [main] DEBUG mpimarta.taxa  - Id: otu1051 time: 011014-152337 GI: 226925776 lacks usable taxonomic information. Score-level: 412.0
+1132632 [main] DEBUG mpimarta.taxa  - Id: otu1051 time: 011014-152337 GI: 219814042 lacks usable taxonomic information. Score-level: 408.0
+1132632 [main] DEBUG mpimarta.taxa  - Id: otu1051 time: 011014-152337 GI: 163257843 lacks usable taxonomic information. Score-level: 408.0
+1132632 [main] DEBUG mpimarta.taxa  - Id: otu1051 time: 011014-152337 GI: 226926528 lacks usable taxonomic information. Score-level: 408.0
+1132632 [main] DEBUG mpimarta.taxa  - Id: otu1051 time: 011014-152337 GI: 401466721 lacks usable taxonomic information. Score-level: 406.0
+1132632 [main] DEBUG mpimarta.taxa  - Id: otu1051 time: 011014-152337 GI: 305854895 lacks usable taxonomic information. Score-level: 396.0
+1132632 [main] DEBUG mpimarta.taxa  - Id: otu1051 time: 011014-152337 GI: 226925685 lacks usable taxonomic information. Score-level: 392.0
+1132633 [main] DEBUG mpimarta.taxa  - Id: otu1051 time: 011014-152337 GI: 226926136 lacks usable taxonomic information. Score-level: 391.0
+1132633 [main] DEBUG mpimarta.taxa  - Id: otu1051 time: 011014-152337 GI: 226929054 lacks usable taxonomic information. Score-level: 385.0
+1132633 [main] DEBUG mpimarta.taxa  - Id: otu1051 time: 011014-152337 GI: 90102952 lacks usable taxonomic information. Score-level: 377.0
+1132633 [main] DEBUG mpimarta.taxa  - Id: otu1051 time: 011014-152337 GI: 532165353 lacks usable taxonomic information. Score-level: 365.0
+1132633 [main] DEBUG mpimarta.taxa  - Id: otu1051 time: 011014-152337 GI: 300086447 lacks usable taxonomic information. Score-level: 361.0
+1132633 [main] DEBUG mpimarta.taxa  - Id: otu1051 time: 011014-152337 GI: 300086448 lacks usable taxonomic information. Score-level: 361.0
+1132633 [main] DEBUG mpimarta.taxa  - Id: otu1051 time: 011014-152337 GI: 363502678 lacks usable taxonomic information. Score-level: 361.0
+1132633 [main] DEBUG mpimarta.taxa  - Id: otu1051 time: 011014-152337 GI: 219968194 lacks usable taxonomic information. Score-level: 361.0
+1132633 [main] DEBUG mpimarta.taxa  - Id: otu1051 time: 011014-152337 GI: 226926659 lacks usable taxonomic information. Score-level: 357.0
+1132633 [main] DEBUG mpimarta.taxa  - Id: otu1051 time: 011014-152337 GI: 300086444 lacks usable taxonomic information. Score-level: 353.0
+1132633 [main] DEBUG mpimarta.taxa  - Id: otu1051 time: 011014-152337 GI: 219968246 lacks usable taxonomic information. Score-level: 345.0
+1132633 [main] DEBUG mpimarta.taxa  - Id: otu1051 time: 011014-152337 GI: 226926587 lacks usable taxonomic information. Score-level: 341.0
+1132633 [main] DEBUG mpimarta.taxa  - Id: otu1051 time: 011014-152337 GI: 226927469 lacks usable taxonomic information. Score-level: 341.0
+1132754 [main] DEBUG mpimarta.taxa  - Id: otu1052 time: 011014-152337 Using slipscore: 372.0
+1132754 [main] DEBUG mpimarta.taxa  - Id: otu1052 time: 011014-152337 GI: 212725729 lacks usable taxonomic information. Score-level: 496.0
+1132754 [main] DEBUG mpimarta.taxa  - Id: otu1052 time: 011014-152337 GI: 212725727 lacks usable taxonomic information. Score-level: 496.0
+1132754 [main] DEBUG mpimarta.taxa  - Id: otu1052 time: 011014-152337 GI: 212725726 lacks usable taxonomic information. Score-level: 496.0
+1132754 [main] DEBUG mpimarta.taxa  - Id: otu1052 time: 011014-152337 GI: 212725708 lacks usable taxonomic information. Score-level: 480.0
+1132760 [main] DEBUG mpimarta.taxa  - Id: otu1053 time: 011014-152337 Using slipscore: -0.75
+1132760 [main] DEBUG mpimarta.taxa  -  time: 011014-152337 There are no (valid) blast candidates for target-sequence: otu1053
+1133336 [main] DEBUG mpimarta.taxa  - Id: otu1054 time: 011014-152338 Using slipscore: 367.5
+1133336 [main] DEBUG mpimarta.taxa  - Id: otu1054 time: 011014-152338 GI: 521301582 lacks usable taxonomic information. Score-level: 490.0
+1133336 [main] DEBUG mpimarta.taxa  - Id: otu1054 time: 011014-152338 GI: 429537383 lacks usable taxonomic information. Score-level: 482.0
+1133336 [main] DEBUG mpimarta.taxa  - Id: otu1054 time: 011014-152338 GI: 292453645 lacks usable taxonomic information. Score-level: 482.0
+1133336 [main] DEBUG mpimarta.taxa  - Id: otu1054 time: 011014-152338 GI: 292453621 lacks usable taxonomic information. Score-level: 482.0
+1133336 [main] DEBUG mpimarta.taxa  - Id: otu1054 time: 011014-152338 GI: 292453597 lacks usable taxonomic information. Score-level: 482.0
+1133336 [main] DEBUG mpimarta.taxa  - Id: otu1054 time: 011014-152338 GI: 292453394 lacks usable taxonomic information. Score-level: 482.0
+1133336 [main] DEBUG mpimarta.taxa  - Id: otu1054 time: 011014-152338 GI: 292453647 lacks usable taxonomic information. Score-level: 482.0
+1133336 [main] DEBUG mpimarta.taxa  - Id: otu1054 time: 011014-152338 GI: 292453623 lacks usable taxonomic information. Score-level: 482.0
+1133336 [main] DEBUG mpimarta.taxa  - Id: otu1054 time: 011014-152338 GI: 292453599 lacks usable taxonomic information. Score-level: 482.0
+1133336 [main] DEBUG mpimarta.taxa  - Id: otu1054 time: 011014-152338 GI: 292453181 lacks usable taxonomic information. Score-level: 482.0
+1133336 [main] DEBUG mpimarta.taxa  - Id: otu1054 time: 011014-152338 GI: 529273208 lacks usable taxonomic information. Score-level: 482.0
+1133336 [main] DEBUG mpimarta.taxa  - Id: otu1054 time: 011014-152338 GI: 401836224 lacks usable taxonomic information. Score-level: 482.0
+1133337 [main] DEBUG mpimarta.taxa  - Id: otu1054 time: 011014-152338 GI: 292453651 lacks usable taxonomic information. Score-level: 482.0
+1133337 [main] DEBUG mpimarta.taxa  - Id: otu1054 time: 011014-152338 GI: 292453627 lacks usable taxonomic information. Score-level: 482.0
+1133337 [main] DEBUG mpimarta.taxa  - Id: otu1054 time: 011014-152338 GI: 292453604 lacks usable taxonomic information. Score-level: 482.0
+1133337 [main] DEBUG mpimarta.taxa  - Id: otu1054 time: 011014-152338 GI: 292453385 lacks usable taxonomic information. Score-level: 482.0
+1133337 [main] DEBUG mpimarta.taxa  - Id: otu1054 time: 011014-152338 GI: 401836227 lacks usable taxonomic information. Score-level: 482.0
+1133337 [main] DEBUG mpimarta.taxa  - Id: otu1054 time: 011014-152338 GI: 298573067 lacks usable taxonomic information. Score-level: 482.0
+1133337 [main] DEBUG mpimarta.taxa  - Id: otu1054 time: 011014-152338 GI: 401836201 lacks usable taxonomic information. Score-level: 482.0
+1133337 [main] DEBUG mpimarta.taxa  - Id: otu1054 time: 011014-152338 GI: 529273214 lacks usable taxonomic information. Score-level: 482.0
+1133337 [main] DEBUG mpimarta.taxa  - Id: otu1054 time: 011014-152338 GI: 298572973 lacks usable taxonomic information. Score-level: 482.0
+1133337 [main] DEBUG mpimarta.taxa  - Id: otu1054 time: 011014-152338 GI: 401836204 lacks usable taxonomic information. Score-level: 482.0
+1133337 [main] DEBUG mpimarta.taxa  - Id: otu1054 time: 011014-152338 GI: 292453630 lacks usable taxonomic information. Score-level: 482.0
+1133337 [main] DEBUG mpimarta.taxa  - Id: otu1054 time: 011014-152338 GI: 292453607 lacks usable taxonomic information. Score-level: 482.0
+1133337 [main] DEBUG mpimarta.taxa  - Id: otu1054 time: 011014-152338 GI: 292453637 lacks usable taxonomic information. Score-level: 482.0
+1133337 [main] DEBUG mpimarta.taxa  - Id: otu1054 time: 011014-152338 GI: 292453614 lacks usable taxonomic information. Score-level: 482.0
+1133337 [main] DEBUG mpimarta.taxa  - Id: otu1054 time: 011014-152338 GI: 292453344 lacks usable taxonomic information. Score-level: 482.0
+1133337 [main] DEBUG mpimarta.taxa  - Id: otu1054 time: 011014-152338 GI: 292453259 lacks usable taxonomic information. Score-level: 482.0
+1133337 [main] DEBUG mpimarta.taxa  - Id: otu1054 time: 011014-152338 GI: 292453197 lacks usable taxonomic information. Score-level: 482.0
+1133337 [main] DEBUG mpimarta.taxa  - Id: otu1054 time: 011014-152338 GI: 300086428 lacks usable taxonomic information. Score-level: 482.0
+1133337 [main] DEBUG mpimarta.taxa  - Id: otu1054 time: 011014-152338 GI: 298573104 lacks usable taxonomic information. Score-level: 482.0
+1133337 [main] DEBUG mpimarta.taxa  - Id: otu1054 time: 011014-152338 GI: 298572962 lacks usable taxonomic information. Score-level: 482.0
+1133337 [main] DEBUG mpimarta.taxa  - Id: otu1054 time: 011014-152338 GI: 292453648 lacks usable taxonomic information. Score-level: 482.0
+1133337 [main] DEBUG mpimarta.taxa  - Id: otu1054 time: 011014-152338 GI: 292453624 lacks usable taxonomic information. Score-level: 482.0
+1133337 [main] DEBUG mpimarta.taxa  - Id: otu1054 time: 011014-152338 GI: 292453601 lacks usable taxonomic information. Score-level: 482.0
+1133337 [main] DEBUG mpimarta.taxa  - Id: otu1054 time: 011014-152338 GI: 292453165 lacks usable taxonomic information. Score-level: 482.0
+1133337 [main] DEBUG mpimarta.taxa  - Id: otu1054 time: 011014-152338 GI: 90102569 lacks usable taxonomic information. Score-level: 482.0
+1133337 [main] DEBUG mpimarta.taxa  - Id: otu1054 time: 011014-152338 GI: 529273192 lacks usable taxonomic information. Score-level: 482.0
+1133337 [main] DEBUG mpimarta.taxa  - Id: otu1054 time: 011014-152338 GI: 529273218 lacks usable taxonomic information. Score-level: 482.0
+1133337 [main] DEBUG mpimarta.taxa  - Id: otu1054 time: 011014-152338 GI: 292453649 lacks usable taxonomic information. Score-level: 482.0
+1133337 [main] DEBUG mpimarta.taxa  - Id: otu1054 time: 011014-152338 GI: 292453625 lacks usable taxonomic information. Score-level: 482.0
+1133337 [main] DEBUG mpimarta.taxa  - Id: otu1054 time: 011014-152338 GI: 292453269 lacks usable taxonomic information. Score-level: 482.0
+1133337 [main] DEBUG mpimarta.taxa  - Id: otu1054 time: 011014-152338 GI: 529273196 lacks usable taxonomic information. Score-level: 482.0
+1133337 [main] DEBUG mpimarta.taxa  - Id: otu1054 time: 011014-152338 GI: 401836226 lacks usable taxonomic information. Score-level: 482.0
+1133337 [main] DEBUG mpimarta.taxa  - Id: otu1054 time: 011014-152338 GI: 292453332 lacks usable taxonomic information. Score-level: 482.0
+1133337 [main] DEBUG mpimarta.taxa  - Id: otu1054 time: 011014-152338 GI: 90102579 lacks usable taxonomic information. Score-level: 482.0
+1133337 [main] DEBUG mpimarta.taxa  - Id: otu1054 time: 011014-152338 GI: 529273197 lacks usable taxonomic information. Score-level: 482.0
+1133337 [main] DEBUG mpimarta.taxa  - Id: otu1054 time: 011014-152338 GI: 401836203 lacks usable taxonomic information. Score-level: 482.0
+1133337 [main] DEBUG mpimarta.taxa  - Id: otu1054 time: 011014-152338 GI: 298573051 lacks usable taxonomic information. Score-level: 482.0
+1133337 [main] DEBUG mpimarta.taxa  - Id: otu1054 time: 011014-152338 GI: 255468532 lacks usable taxonomic information. Score-level: 482.0
+1133337 [main] DEBUG mpimarta.taxa  - Id: otu1054 time: 011014-152338 GI: 255468499 lacks usable taxonomic information. Score-level: 482.0
+1133337 [main] DEBUG mpimarta.taxa  - Id: otu1054 time: 011014-152338 GI: 212725731 lacks usable taxonomic information. Score-level: 482.0
+1133337 [main] DEBUG mpimarta.taxa  - Id: otu1054 time: 011014-152338 GI: 90102583 lacks usable taxonomic information. Score-level: 482.0
+1133337 [main] DEBUG mpimarta.taxa  - Id: otu1054 time: 011014-152338 GI: 292453650 lacks usable taxonomic information. Score-level: 482.0
+1133337 [main] DEBUG mpimarta.taxa  - Id: otu1054 time: 011014-152338 GI: 292453626 lacks usable taxonomic information. Score-level: 482.0
+1133337 [main] DEBUG mpimarta.taxa  - Id: otu1054 time: 011014-152338 GI: 292453603 lacks usable taxonomic information. Score-level: 482.0
+1133337 [main] DEBUG mpimarta.taxa  - Id: otu1054 time: 011014-152338 GI: 292453399 lacks usable taxonomic information. Score-level: 482.0
+1133337 [main] DEBUG mpimarta.taxa  - Id: otu1054 time: 011014-152338 GI: 292453380 lacks usable taxonomic information. Score-level: 482.0
+1133337 [main] DEBUG mpimarta.taxa  - Id: otu1054 time: 011014-152338 GI: 292453147 lacks usable taxonomic information. Score-level: 482.0
+1133337 [main] DEBUG mpimarta.taxa  - Id: otu1054 time: 011014-152338 GI: 90102578 lacks usable taxonomic information. Score-level: 482.0
+1133337 [main] DEBUG mpimarta.taxa  - Id: otu1054 time: 011014-152338 GI: 529273201 lacks usable taxonomic information. Score-level: 482.0
+1133337 [main] DEBUG mpimarta.taxa  - Id: otu1054 time: 011014-152338 GI: 305670528 lacks usable taxonomic information. Score-level: 482.0
+1133337 [main] DEBUG mpimarta.taxa  - Id: otu1054 time: 011014-152338 GI: 298573094 lacks usable taxonomic information. Score-level: 482.0
+1133337 [main] DEBUG mpimarta.taxa  - Id: otu1054 time: 011014-152338 GI: 90102581 lacks usable taxonomic information. Score-level: 482.0
+1133337 [main] DEBUG mpimarta.taxa  - Id: otu1054 time: 011014-152338 GI: 292453615 lacks usable taxonomic information. Score-level: 482.0
+1133337 [main] DEBUG mpimarta.taxa  - Id: otu1054 time: 011014-152338 GI: 292453412 lacks usable taxonomic information. Score-level: 482.0
+1133337 [main] DEBUG mpimarta.taxa  - Id: otu1054 time: 011014-152338 GI: 90102566 lacks usable taxonomic information. Score-level: 482.0
+1133337 [main] DEBUG mpimarta.taxa  - Id: otu1054 time: 011014-152338 GI: 292453633 lacks usable taxonomic information. Score-level: 482.0
+1133337 [main] DEBUG mpimarta.taxa  - Id: otu1054 time: 011014-152338 GI: 292453233 lacks usable taxonomic information. Score-level: 482.0
+1133337 [main] DEBUG mpimarta.taxa  - Id: otu1054 time: 011014-152338 GI: 363702531 lacks usable taxonomic information. Score-level: 482.0
+1133337 [main] DEBUG mpimarta.taxa  - Id: otu1054 time: 011014-152338 GI: 90102582 lacks usable taxonomic information. Score-level: 482.0
+1133337 [main] DEBUG mpimarta.taxa  - Id: otu1054 time: 011014-152338 GI: 529273199 lacks usable taxonomic information. Score-level: 482.0
+1133337 [main] DEBUG mpimarta.taxa  - Id: otu1054 time: 011014-152338 GI: 292453636 lacks usable taxonomic information. Score-level: 482.0
+1133337 [main] DEBUG mpimarta.taxa  - Id: otu1054 time: 011014-152338 GI: 292453613 lacks usable taxonomic information. Score-level: 482.0
+1133337 [main] DEBUG mpimarta.taxa  - Id: otu1054 time: 011014-152338 GI: 292453367 lacks usable taxonomic information. Score-level: 482.0
+1133337 [main] DEBUG mpimarta.taxa  - Id: otu1054 time: 011014-152338 GI: 292453178 lacks usable taxonomic information. Score-level: 482.0
+1133337 [main] DEBUG mpimarta.taxa  - Id: otu1054 time: 011014-152338 GI: 260678515 lacks usable taxonomic information. Score-level: 482.0
+1133337 [main] DEBUG mpimarta.taxa  - Id: otu1054 time: 011014-152338 GI: 90102580 lacks usable taxonomic information. Score-level: 482.0
+1133337 [main] DEBUG mpimarta.taxa  - Id: otu1054 time: 011014-152338 GI: 529273193 lacks usable taxonomic information. Score-level: 482.0
+1133337 [main] DEBUG mpimarta.taxa  - Id: otu1054 time: 011014-152338 GI: 401836228 lacks usable taxonomic information. Score-level: 482.0
+1133337 [main] DEBUG mpimarta.taxa  - Id: otu1054 time: 011014-152338 GI: 429537347 lacks usable taxonomic information. Score-level: 482.0
+1133337 [main] DEBUG mpimarta.taxa  - Id: otu1054 time: 011014-152338 GI: 292453634 lacks usable taxonomic information. Score-level: 482.0
+1133337 [main] DEBUG mpimarta.taxa  - Id: otu1054 time: 011014-152338 GI: 292453611 lacks usable taxonomic information. Score-level: 482.0
+1133337 [main] DEBUG mpimarta.taxa  - Id: otu1054 time: 011014-152338 GI: 292453321 lacks usable taxonomic information. Score-level: 482.0
+1133337 [main] DEBUG mpimarta.taxa  - Id: otu1054 time: 011014-152338 GI: 292453198 lacks usable taxonomic information. Score-level: 482.0
+1133337 [main] DEBUG mpimarta.taxa  - Id: otu1054 time: 011014-152338 GI: 401836231 lacks usable taxonomic information. Score-level: 482.0
+1133337 [main] DEBUG mpimarta.taxa  - Id: otu1054 time: 011014-152338 GI: 300872423 lacks usable taxonomic information. Score-level: 482.0
+1133337 [main] DEBUG mpimarta.taxa  - Id: otu1054 time: 011014-152338 GI: 292453635 lacks usable taxonomic information. Score-level: 482.0
+1133337 [main] DEBUG mpimarta.taxa  - Id: otu1054 time: 011014-152338 GI: 292453612 lacks usable taxonomic information. Score-level: 482.0
+1133337 [main] DEBUG mpimarta.taxa  - Id: otu1054 time: 011014-152338 GI: 292453223 lacks usable taxonomic information. Score-level: 482.0
+1133337 [main] DEBUG mpimarta.taxa  - Id: otu1054 time: 011014-152338 GI: 529273223 lacks usable taxonomic information. Score-level: 482.0
+1133604 [main] DEBUG mpimarta.taxa  - Id: otu1055 time: 011014-152338 Using slipscore: 361.5
+1133731 [main] DEBUG mpimarta.taxa  - Id: otu1981 time: 011014-152338 Using slipscore: 306.0
+1133731 [main] DEBUG mpimarta.taxa  - Id: otu1981 time: 011014-152338 GI: 224969736 lacks usable taxonomic information. Score-level: 408.0
+1133731 [main] DEBUG mpimarta.taxa  - Id: otu1981 time: 011014-152338 GI: 363500323 lacks usable taxonomic information. Score-level: 402.0
+1133731 [main] DEBUG mpimarta.taxa  - Id: otu1981 time: 011014-152338 GI: 163257835 lacks usable taxonomic information. Score-level: 385.0
+1133731 [main] DEBUG mpimarta.taxa  - Id: otu1981 time: 011014-152338 GI: 224971847 lacks usable taxonomic information. Score-level: 385.0
+1133731 [main] DEBUG mpimarta.taxa  - Id: otu1981 time: 011014-152338 GI: 256855654 lacks usable taxonomic information. Score-level: 371.0
+1133731 [main] DEBUG mpimarta.taxa  - Id: otu1981 time: 011014-152338 GI: 90102607 lacks usable taxonomic information. Score-level: 371.0
+1133731 [main] DEBUG mpimarta.taxa  - Id: otu1981 time: 011014-152338 GI: 363500081 lacks usable taxonomic information. Score-level: 369.0
+1133731 [main] DEBUG mpimarta.taxa  - Id: otu1981 time: 011014-152338 GI: 363501546 lacks usable taxonomic information. Score-level: 351.0
+1133731 [main] DEBUG mpimarta.taxa  - Id: otu1981 time: 011014-152338 GI: 544586130 lacks usable taxonomic information. Score-level: 347.0
+1133731 [main] DEBUG mpimarta.taxa  - Id: otu1981 time: 011014-152338 GI: 404248007 lacks usable taxonomic information. Score-level: 341.0
+1133731 [main] DEBUG mpimarta.taxa  - Id: otu1981 time: 011014-152338 GI: 514825731 lacks usable taxonomic information. Score-level: 329.0
+1133731 [main] DEBUG mpimarta.taxa  -  time: 011014-152338 Analyzing OTU:otu1981 and gi:514825731 - Although we considered the top: 0 elements, we slipped past the slip-score.
+
+1134593 [main] DEBUG mpimarta.taxa  - Id: otu1057 time: 011014-152339 Using slipscore: 370.5
+1134594 [main] DEBUG mpimarta.taxa  - Id: otu1057 time: 011014-152339 GI: 363501409 lacks usable taxonomic information. Score-level: 494.0
+1135238 [main] DEBUG mpimarta.taxa  - Id: otu1980 time: 011014-152340 Using slipscore: 355.5
+1135238 [main] DEBUG mpimarta.taxa  - Id: otu1980 time: 011014-152340 GI: 429537383 lacks usable taxonomic information. Score-level: 474.0
+1135238 [main] DEBUG mpimarta.taxa  - Id: otu1980 time: 011014-152340 GI: 292453645 lacks usable taxonomic information. Score-level: 474.0
+1135238 [main] DEBUG mpimarta.taxa  - Id: otu1980 time: 011014-152340 GI: 292453621 lacks usable taxonomic information. Score-level: 474.0
+1135238 [main] DEBUG mpimarta.taxa  - Id: otu1980 time: 011014-152340 GI: 292453597 lacks usable taxonomic information. Score-level: 474.0
+1135238 [main] DEBUG mpimarta.taxa  - Id: otu1980 time: 011014-152340 GI: 292453394 lacks usable taxonomic information. Score-level: 474.0
+1135238 [main] DEBUG mpimarta.taxa  - Id: otu1980 time: 011014-152340 GI: 292453647 lacks usable taxonomic information. Score-level: 474.0
+1135238 [main] DEBUG mpimarta.taxa  - Id: otu1980 time: 011014-152340 GI: 292453623 lacks usable taxonomic information. Score-level: 474.0
+1135238 [main] DEBUG mpimarta.taxa  - Id: otu1980 time: 011014-152340 GI: 292453599 lacks usable taxonomic information. Score-level: 474.0
+1135238 [main] DEBUG mpimarta.taxa  - Id: otu1980 time: 011014-152340 GI: 292453181 lacks usable taxonomic information. Score-level: 474.0
+1135238 [main] DEBUG mpimarta.taxa  - Id: otu1980 time: 011014-152340 GI: 529273208 lacks usable taxonomic information. Score-level: 474.0
+1135238 [main] DEBUG mpimarta.taxa  - Id: otu1980 time: 011014-152340 GI: 401836224 lacks usable taxonomic information. Score-level: 474.0
+1135238 [main] DEBUG mpimarta.taxa  - Id: otu1980 time: 011014-152340 GI: 292453651 lacks usable taxonomic information. Score-level: 474.0
+1135238 [main] DEBUG mpimarta.taxa  - Id: otu1980 time: 011014-152340 GI: 292453627 lacks usable taxonomic information. Score-level: 474.0
+1135238 [main] DEBUG mpimarta.taxa  - Id: otu1980 time: 011014-152340 GI: 292453604 lacks usable taxonomic information. Score-level: 474.0
+1135238 [main] DEBUG mpimarta.taxa  - Id: otu1980 time: 011014-152340 GI: 292453385 lacks usable taxonomic information. Score-level: 474.0
+1135238 [main] DEBUG mpimarta.taxa  - Id: otu1980 time: 011014-152340 GI: 401836227 lacks usable taxonomic information. Score-level: 474.0
+1135238 [main] DEBUG mpimarta.taxa  - Id: otu1980 time: 011014-152340 GI: 298573067 lacks usable taxonomic information. Score-level: 474.0
+1135238 [main] DEBUG mpimarta.taxa  - Id: otu1980 time: 011014-152340 GI: 401836201 lacks usable taxonomic information. Score-level: 474.0
+1135238 [main] DEBUG mpimarta.taxa  - Id: otu1980 time: 011014-152340 GI: 529273214 lacks usable taxonomic information. Score-level: 474.0
+1135238 [main] DEBUG mpimarta.taxa  - Id: otu1980 time: 011014-152340 GI: 348592128 lacks usable taxonomic information. Score-level: 474.0
+1135238 [main] DEBUG mpimarta.taxa  - Id: otu1980 time: 011014-152340 GI: 298572973 lacks usable taxonomic information. Score-level: 474.0
+1135238 [main] DEBUG mpimarta.taxa  - Id: otu1980 time: 011014-152340 GI: 401836204 lacks usable taxonomic information. Score-level: 474.0
+1135238 [main] DEBUG mpimarta.taxa  - Id: otu1980 time: 011014-152340 GI: 292453630 lacks usable taxonomic information. Score-level: 474.0
+1135238 [main] DEBUG mpimarta.taxa  - Id: otu1980 time: 011014-152340 GI: 292453607 lacks usable taxonomic information. Score-level: 474.0
+1135238 [main] DEBUG mpimarta.taxa  - Id: otu1980 time: 011014-152340 GI: 292453637 lacks usable taxonomic information. Score-level: 474.0
+1135238 [main] DEBUG mpimarta.taxa  - Id: otu1980 time: 011014-152340 GI: 292453614 lacks usable taxonomic information. Score-level: 474.0
+1135238 [main] DEBUG mpimarta.taxa  - Id: otu1980 time: 011014-152340 GI: 292453344 lacks usable taxonomic information. Score-level: 474.0
+1135238 [main] DEBUG mpimarta.taxa  - Id: otu1980 time: 011014-152340 GI: 292453259 lacks usable taxonomic information. Score-level: 474.0
+1135238 [main] DEBUG mpimarta.taxa  - Id: otu1980 time: 011014-152340 GI: 292453197 lacks usable taxonomic information. Score-level: 474.0
+1135238 [main] DEBUG mpimarta.taxa  - Id: otu1980 time: 011014-152340 GI: 300086428 lacks usable taxonomic information. Score-level: 474.0
+1135238 [main] DEBUG mpimarta.taxa  - Id: otu1980 time: 011014-152340 GI: 298573104 lacks usable taxonomic information. Score-level: 474.0
+1135238 [main] DEBUG mpimarta.taxa  - Id: otu1980 time: 011014-152340 GI: 298572962 lacks usable taxonomic information. Score-level: 474.0
+1135238 [main] DEBUG mpimarta.taxa  - Id: otu1980 time: 011014-152340 GI: 292453648 lacks usable taxonomic information. Score-level: 474.0
+1135238 [main] DEBUG mpimarta.taxa  - Id: otu1980 time: 011014-152340 GI: 292453624 lacks usable taxonomic information. Score-level: 474.0
+1135238 [main] DEBUG mpimarta.taxa  - Id: otu1980 time: 011014-152340 GI: 292453601 lacks usable taxonomic information. Score-level: 474.0
+1135238 [main] DEBUG mpimarta.taxa  - Id: otu1980 time: 011014-152340 GI: 292453165 lacks usable taxonomic information. Score-level: 474.0
+1135238 [main] DEBUG mpimarta.taxa  - Id: otu1980 time: 011014-152340 GI: 90102569 lacks usable taxonomic information. Score-level: 474.0
+1135238 [main] DEBUG mpimarta.taxa  - Id: otu1980 time: 011014-152340 GI: 529273192 lacks usable taxonomic information. Score-level: 474.0
+1135238 [main] DEBUG mpimarta.taxa  - Id: otu1980 time: 011014-152340 GI: 529273218 lacks usable taxonomic information. Score-level: 474.0
+1135238 [main] DEBUG mpimarta.taxa  - Id: otu1980 time: 011014-152340 GI: 292453649 lacks usable taxonomic information. Score-level: 474.0
+1135238 [main] DEBUG mpimarta.taxa  - Id: otu1980 time: 011014-152340 GI: 292453625 lacks usable taxonomic information. Score-level: 474.0
+1135238 [main] DEBUG mpimarta.taxa  - Id: otu1980 time: 011014-152340 GI: 292453269 lacks usable taxonomic information. Score-level: 474.0
+1135238 [main] DEBUG mpimarta.taxa  - Id: otu1980 time: 011014-152340 GI: 529273196 lacks usable taxonomic information. Score-level: 474.0
+1135238 [main] DEBUG mpimarta.taxa  - Id: otu1980 time: 011014-152340 GI: 401836226 lacks usable taxonomic information. Score-level: 474.0
+1135238 [main] DEBUG mpimarta.taxa  - Id: otu1980 time: 011014-152340 GI: 292453332 lacks usable taxonomic information. Score-level: 474.0
+1135238 [main] DEBUG mpimarta.taxa  - Id: otu1980 time: 011014-152340 GI: 90102579 lacks usable taxonomic information. Score-level: 474.0
+1135238 [main] DEBUG mpimarta.taxa  - Id: otu1980 time: 011014-152340 GI: 529273197 lacks usable taxonomic information. Score-level: 474.0
+1135238 [main] DEBUG mpimarta.taxa  - Id: otu1980 time: 011014-152340 GI: 401836203 lacks usable taxonomic information. Score-level: 474.0
+1135238 [main] DEBUG mpimarta.taxa  - Id: otu1980 time: 011014-152340 GI: 298573051 lacks usable taxonomic information. Score-level: 474.0
+1135238 [main] DEBUG mpimarta.taxa  - Id: otu1980 time: 011014-152340 GI: 255468532 lacks usable taxonomic information. Score-level: 474.0
+1135238 [main] DEBUG mpimarta.taxa  - Id: otu1980 time: 011014-152340 GI: 255468499 lacks usable taxonomic information. Score-level: 474.0
+1135238 [main] DEBUG mpimarta.taxa  - Id: otu1980 time: 011014-152340 GI: 212725731 lacks usable taxonomic information. Score-level: 474.0
+1135238 [main] DEBUG mpimarta.taxa  - Id: otu1980 time: 011014-152340 GI: 90102583 lacks usable taxonomic information. Score-level: 474.0
+1135238 [main] DEBUG mpimarta.taxa  - Id: otu1980 time: 011014-152340 GI: 292453650 lacks usable taxonomic information. Score-level: 474.0
+1135238 [main] DEBUG mpimarta.taxa  - Id: otu1980 time: 011014-152340 GI: 292453626 lacks usable taxonomic information. Score-level: 474.0
+1135238 [main] DEBUG mpimarta.taxa  - Id: otu1980 time: 011014-152340 GI: 292453603 lacks usable taxonomic information. Score-level: 474.0
+1135238 [main] DEBUG mpimarta.taxa  - Id: otu1980 time: 011014-152340 GI: 292453399 lacks usable taxonomic information. Score-level: 474.0
+1135238 [main] DEBUG mpimarta.taxa  - Id: otu1980 time: 011014-152340 GI: 292453380 lacks usable taxonomic information. Score-level: 474.0
+1135238 [main] DEBUG mpimarta.taxa  - Id: otu1980 time: 011014-152340 GI: 292453147 lacks usable taxonomic information. Score-level: 474.0
+1135238 [main] DEBUG mpimarta.taxa  - Id: otu1980 time: 011014-152340 GI: 90102578 lacks usable taxonomic information. Score-level: 474.0
+1135238 [main] DEBUG mpimarta.taxa  - Id: otu1980 time: 011014-152340 GI: 529273201 lacks usable taxonomic information. Score-level: 474.0
+1135238 [main] DEBUG mpimarta.taxa  - Id: otu1980 time: 011014-152340 GI: 305670528 lacks usable taxonomic information. Score-level: 474.0
+1135238 [main] DEBUG mpimarta.taxa  - Id: otu1980 time: 011014-152340 GI: 298573094 lacks usable taxonomic information. Score-level: 474.0
+1135238 [main] DEBUG mpimarta.taxa  - Id: otu1980 time: 011014-152340 GI: 90102581 lacks usable taxonomic information. Score-level: 474.0
+1135238 [main] DEBUG mpimarta.taxa  - Id: otu1980 time: 011014-152340 GI: 292453412 lacks usable taxonomic information. Score-level: 474.0
+1135238 [main] DEBUG mpimarta.taxa  - Id: otu1980 time: 011014-152340 GI: 90102566 lacks usable taxonomic information. Score-level: 474.0
+1135238 [main] DEBUG mpimarta.taxa  - Id: otu1980 time: 011014-152340 GI: 292453633 lacks usable taxonomic information. Score-level: 474.0
+1135238 [main] DEBUG mpimarta.taxa  - Id: otu1980 time: 011014-152340 GI: 292453233 lacks usable taxonomic information. Score-level: 474.0
+1135238 [main] DEBUG mpimarta.taxa  - Id: otu1980 time: 011014-152340 GI: 363702531 lacks usable taxonomic information. Score-level: 474.0
+1135238 [main] DEBUG mpimarta.taxa  - Id: otu1980 time: 011014-152340 GI: 90102582 lacks usable taxonomic information. Score-level: 474.0
+1135238 [main] DEBUG mpimarta.taxa  - Id: otu1980 time: 011014-152340 GI: 529273199 lacks usable taxonomic information. Score-level: 474.0
+1135238 [main] DEBUG mpimarta.taxa  - Id: otu1980 time: 011014-152340 GI: 292453636 lacks usable taxonomic information. Score-level: 474.0
+1135238 [main] DEBUG mpimarta.taxa  - Id: otu1980 time: 011014-152340 GI: 292453613 lacks usable taxonomic information. Score-level: 474.0
+1135238 [main] DEBUG mpimarta.taxa  - Id: otu1980 time: 011014-152340 GI: 292453367 lacks usable taxonomic information. Score-level: 474.0
+1135239 [main] DEBUG mpimarta.taxa  - Id: otu1980 time: 011014-152340 GI: 292453178 lacks usable taxonomic information. Score-level: 474.0
+1135239 [main] DEBUG mpimarta.taxa  - Id: otu1980 time: 011014-152340 GI: 292453115 lacks usable taxonomic information. Score-level: 474.0
+1135239 [main] DEBUG mpimarta.taxa  - Id: otu1980 time: 011014-152340 GI: 260678515 lacks usable taxonomic information. Score-level: 474.0
+1135239 [main] DEBUG mpimarta.taxa  - Id: otu1980 time: 011014-152340 GI: 90102580 lacks usable taxonomic information. Score-level: 474.0
+1135239 [main] DEBUG mpimarta.taxa  - Id: otu1980 time: 011014-152340 GI: 529273193 lacks usable taxonomic information. Score-level: 474.0
+1135239 [main] DEBUG mpimarta.taxa  - Id: otu1980 time: 011014-152340 GI: 401836228 lacks usable taxonomic information. Score-level: 474.0
+1135239 [main] DEBUG mpimarta.taxa  - Id: otu1980 time: 011014-152340 GI: 429537347 lacks usable taxonomic information. Score-level: 474.0
+1135239 [main] DEBUG mpimarta.taxa  - Id: otu1980 time: 011014-152340 GI: 292453634 lacks usable taxonomic information. Score-level: 474.0
+1135239 [main] DEBUG mpimarta.taxa  - Id: otu1980 time: 011014-152340 GI: 292453611 lacks usable taxonomic information. Score-level: 474.0
+1135239 [main] DEBUG mpimarta.taxa  - Id: otu1980 time: 011014-152340 GI: 292453321 lacks usable taxonomic information. Score-level: 474.0
+1135239 [main] DEBUG mpimarta.taxa  - Id: otu1980 time: 011014-152340 GI: 292453198 lacks usable taxonomic information. Score-level: 474.0
+1135239 [main] DEBUG mpimarta.taxa  - Id: otu1980 time: 011014-152340 GI: 401836231 lacks usable taxonomic information. Score-level: 474.0
+1135239 [main] DEBUG mpimarta.taxa  - Id: otu1980 time: 011014-152340 GI: 300872423 lacks usable taxonomic information. Score-level: 474.0
+1135239 [main] DEBUG mpimarta.taxa  - Id: otu1980 time: 011014-152340 GI: 292453635 lacks usable taxonomic information. Score-level: 474.0
+1135239 [main] DEBUG mpimarta.taxa  - Id: otu1980 time: 011014-152340 GI: 292453612 lacks usable taxonomic information. Score-level: 474.0
+1135239 [main] DEBUG mpimarta.taxa  - Id: otu1980 time: 011014-152340 GI: 292453223 lacks usable taxonomic information. Score-level: 474.0
+1135239 [main] DEBUG mpimarta.taxa  - Id: otu1980 time: 011014-152340 GI: 529273223 lacks usable taxonomic information. Score-level: 474.0
+1135253 [main] DEBUG mpimarta.taxa  - Id: otu1056 time: 011014-152340 Using slipscore: -0.75
+1135253 [main] DEBUG mpimarta.taxa  -  time: 011014-152340 There are no (valid) blast candidates for target-sequence: otu1056
+1136045 [main] DEBUG mpimarta.taxa  - Id: otu3409 time: 011014-152340 Using slipscore: 319.5
+1136045 [main] DEBUG mpimarta.taxa  - Id: otu3409 time: 011014-152340 GI: 224970136 lacks usable taxonomic information. Score-level: 426.0
+1136045 [main] DEBUG mpimarta.taxa  - Id: otu3409 time: 011014-152340 GI: 224974308 lacks usable taxonomic information. Score-level: 418.0
+1136045 [main] DEBUG mpimarta.taxa  - Id: otu3409 time: 011014-152340 GI: 224973831 lacks usable taxonomic information. Score-level: 410.0
+1136045 [main] DEBUG mpimarta.taxa  - Id: otu3409 time: 011014-152340 GI: 300086088 lacks usable taxonomic information. Score-level: 410.0
+1136045 [main] DEBUG mpimarta.taxa  - Id: otu3409 time: 011014-152340 GI: 259106836 lacks usable taxonomic information. Score-level: 410.0
+1136046 [main] DEBUG mpimarta.taxa  - Id: otu3409 time: 011014-152340 GI: 256855909 lacks usable taxonomic information. Score-level: 408.0
+1136046 [main] DEBUG mpimarta.taxa  - Id: otu3409 time: 011014-152340 GI: 224970055 lacks usable taxonomic information. Score-level: 406.0
+1136046 [main] DEBUG mpimarta.taxa  - Id: otu3409 time: 011014-152340 GI: 223016916 lacks usable taxonomic information. Score-level: 404.0
+1136046 [main] DEBUG mpimarta.taxa  - Id: otu3409 time: 011014-152340 GI: 556823317 lacks usable taxonomic information. Score-level: 404.0
+1136053 [main] DEBUG mpimarta.taxa  - Id: otu1983 time: 011014-152340 Using slipscore: -0.75
+1136053 [main] DEBUG mpimarta.taxa  -  time: 011014-152340 There are no (valid) blast candidates for target-sequence: otu1983
+1136058 [main] DEBUG mpimarta.taxa  - Id: otu1059 time: 011014-152340 Using slipscore: -0.75
+1136058 [main] DEBUG mpimarta.taxa  -  time: 011014-152340 There are no (valid) blast candidates for target-sequence: otu1059
+1136709 [main] DEBUG mpimarta.taxa  - Id: otu3408 time: 011014-152341 Using slipscore: 309.0
+1136709 [main] DEBUG mpimarta.taxa  - Id: otu3408 time: 011014-152341 GI: 255468497 lacks usable taxonomic information. Score-level: 412.0
+1136709 [main] DEBUG mpimarta.taxa  - Id: otu3408 time: 011014-152341 GI: 260678513 lacks usable taxonomic information. Score-level: 412.0
+1136709 [main] DEBUG mpimarta.taxa  - Id: otu3408 time: 011014-152341 GI: 117652883 lacks usable taxonomic information. Score-level: 406.0
+1136709 [main] DEBUG mpimarta.taxa  - Id: otu3408 time: 011014-152341 GI: 117653258 lacks usable taxonomic information. Score-level: 406.0
+1136709 [main] DEBUG mpimarta.taxa  - Id: otu3408 time: 011014-152341 GI: 114225495 lacks usable taxonomic information. Score-level: 406.0
+1136709 [main] DEBUG mpimarta.taxa  - Id: otu3408 time: 011014-152341 GI: 311408886 lacks usable taxonomic information. Score-level: 391.0
+1136851 [main] DEBUG mpimarta.taxa  - Id: otu1982 time: 011014-152341 Using slipscore: 295.5
+1136851 [main] DEBUG mpimarta.taxa  - Id: otu1982 time: 011014-152341 GI: 224969736 lacks usable taxonomic information. Score-level: 394.0
+1136851 [main] DEBUG mpimarta.taxa  - Id: otu1982 time: 011014-152341 GI: 363500323 lacks usable taxonomic information. Score-level: 394.0
+1136851 [main] DEBUG mpimarta.taxa  - Id: otu1982 time: 011014-152341 GI: 224971847 lacks usable taxonomic information. Score-level: 394.0
+1136851 [main] DEBUG mpimarta.taxa  - Id: otu1982 time: 011014-152341 GI: 163257835 lacks usable taxonomic information. Score-level: 379.0
+1136851 [main] DEBUG mpimarta.taxa  - Id: otu1982 time: 011014-152341 GI: 256855654 lacks usable taxonomic information. Score-level: 363.0
+1136851 [main] DEBUG mpimarta.taxa  - Id: otu1982 time: 011014-152341 GI: 90102607 lacks usable taxonomic information. Score-level: 363.0
+1136851 [main] DEBUG mpimarta.taxa  - Id: otu1982 time: 011014-152341 GI: 363501546 lacks usable taxonomic information. Score-level: 359.0
+1136851 [main] DEBUG mpimarta.taxa  - Id: otu1982 time: 011014-152341 GI: 544586130 lacks usable taxonomic information. Score-level: 355.0
+1136851 [main] DEBUG mpimarta.taxa  - Id: otu1982 time: 011014-152341 GI: 544585072 lacks usable taxonomic information. Score-level: 349.0
+1136851 [main] DEBUG mpimarta.taxa  - Id: otu1982 time: 011014-152341 GI: 404248007 lacks usable taxonomic information. Score-level: 349.0
+1136851 [main] DEBUG mpimarta.taxa  - Id: otu1982 time: 011014-152341 GI: 514825731 lacks usable taxonomic information. Score-level: 343.0
+1136851 [main] DEBUG mpimarta.taxa  - Id: otu1982 time: 011014-152341 GI: 363500081 lacks usable taxonomic information. Score-level: 323.0
+1136851 [main] DEBUG mpimarta.taxa  - Id: otu1982 time: 011014-152341 GI: 544586024 lacks usable taxonomic information. Score-level: 299.0
+1136851 [main] DEBUG mpimarta.taxa  -  time: 011014-152341 Analyzing OTU:otu1982 and gi:544586024 - Although we considered the top: 0 elements, we slipped past the slip-score.
+
+1137260 [main] DEBUG mpimarta.taxa  - Id: otu1058 time: 011014-152342 Using slipscore: 389.25
+1137260 [main] DEBUG mpimarta.taxa  - Id: otu1058 time: 011014-152342 GI: 90102616 lacks usable taxonomic information. Score-level: 519.0
+1137260 [main] DEBUG mpimarta.taxa  - Id: otu1058 time: 011014-152342 GI: 90102620 lacks usable taxonomic information. Score-level: 519.0
+1137260 [main] DEBUG mpimarta.taxa  - Id: otu1058 time: 011014-152342 GI: 259107016 lacks usable taxonomic information. Score-level: 428.0
+1137260 [main] DEBUG mpimarta.taxa  - Id: otu1058 time: 011014-152342 GI: 259098041 lacks usable taxonomic information. Score-level: 420.0
+1137260 [main] DEBUG mpimarta.taxa  - Id: otu1058 time: 011014-152342 GI: 212276770 lacks usable taxonomic information. Score-level: 420.0
+1137260 [main] DEBUG mpimarta.taxa  - Id: otu1058 time: 011014-152342 GI: 363500792 lacks usable taxonomic information. Score-level: 418.0
+1137260 [main] DEBUG mpimarta.taxa  - Id: otu1058 time: 011014-152342 GI: 163257788 lacks usable taxonomic information. Score-level: 418.0
+1138035 [main] DEBUG mpimarta.taxa  - Id: otu3407 time: 011014-152342 Using slipscore: 303.0
+1138514 [main] DEBUG mpimarta.taxa  - Id: otu1985 time: 011014-152343 Using slipscore: 252.75
+1138514 [main] DEBUG mpimarta.taxa  - Id: otu1985 time: 011014-152343 GI: 387583217 lacks usable taxonomic information. Score-level: 337.0
+1138514 [main] DEBUG mpimarta.taxa  - Id: otu1985 time: 011014-152343 GI: 261871951 lacks usable taxonomic information. Score-level: 337.0
+1138514 [main] DEBUG mpimarta.taxa  - Id: otu1985 time: 011014-152343 GI: 226926503 lacks usable taxonomic information. Score-level: 337.0
+1138514 [main] DEBUG mpimarta.taxa  - Id: otu1985 time: 011014-152343 GI: 261871948 lacks usable taxonomic information. Score-level: 337.0
+1138514 [main] DEBUG mpimarta.taxa  - Id: otu1985 time: 011014-152343 GI: 506954142 lacks usable taxonomic information. Score-level: 337.0
+1138514 [main] DEBUG mpimarta.taxa  - Id: otu1985 time: 011014-152343 GI: 261871899 lacks usable taxonomic information. Score-level: 337.0
+1138514 [main] DEBUG mpimarta.taxa  - Id: otu1985 time: 011014-152343 GI: 506954180 lacks usable taxonomic information. Score-level: 337.0
+1138514 [main] DEBUG mpimarta.taxa  - Id: otu1985 time: 011014-152343 GI: 380003901 lacks usable taxonomic information. Score-level: 337.0
+1138514 [main] DEBUG mpimarta.taxa  - Id: otu1985 time: 011014-152343 GI: 376372894 lacks usable taxonomic information. Score-level: 335.0
+1138514 [main] DEBUG mpimarta.taxa  - Id: otu1985 time: 011014-152343 GI: 376372895 lacks usable taxonomic information. Score-level: 335.0
+1138514 [main] DEBUG mpimarta.taxa  - Id: otu1985 time: 011014-152343 GI: 261871947 lacks usable taxonomic information. Score-level: 335.0
+1138514 [main] DEBUG mpimarta.taxa  - Id: otu1985 time: 011014-152343 GI: 133753180 lacks usable taxonomic information. Score-level: 329.0
+1138520 [main] DEBUG mpimarta.taxa  - Id: otu1984 time: 011014-152343 Using slipscore: -0.75
+1138520 [main] DEBUG mpimarta.taxa  -  time: 011014-152343 There are no (valid) blast candidates for target-sequence: otu1984
+1138794 [main] DEBUG mpimarta.taxa  - Id: otu1987 time: 011014-152343 Using slipscore: 330.0
+1138800 [main] DEBUG mpimarta.taxa  - Id: otu1986 time: 011014-152343 Using slipscore: -0.75
+1138800 [main] DEBUG mpimarta.taxa  -  time: 011014-152343 There are no (valid) blast candidates for target-sequence: otu1986
+1138835 [main] DEBUG mpimarta.taxa  - Id: otu1989 time: 011014-152343 Using slipscore: 285.75
+1138835 [main] DEBUG mpimarta.taxa  - Id: otu1989 time: 011014-152343 GI: 259104149 lacks usable taxonomic information. Score-level: 381.0
+1138835 [main] DEBUG mpimarta.taxa  - Id: otu1989 time: 011014-152343 GI: 259109179 lacks usable taxonomic information. Score-level: 381.0
+1138835 [main] DEBUG mpimarta.taxa  - Id: otu1989 time: 011014-152343 GI: 224973021 lacks usable taxonomic information. Score-level: 373.0
+1138835 [main] DEBUG mpimarta.taxa  - Id: otu1989 time: 011014-152343 GI: 259098097 lacks usable taxonomic information. Score-level: 373.0
+1138835 [main] DEBUG mpimarta.taxa  - Id: otu1989 time: 011014-152343 GI: 224970769 lacks usable taxonomic information. Score-level: 373.0
+1138835 [main] DEBUG mpimarta.taxa  - Id: otu1989 time: 011014-152343 GI: 544585231 lacks usable taxonomic information. Score-level: 343.0
+1138835 [main] DEBUG mpimarta.taxa  - Id: otu1989 time: 011014-152343 GI: 224974982 lacks usable taxonomic information. Score-level: 341.0
+1138835 [main] DEBUG mpimarta.taxa  - Id: otu1989 time: 011014-152343 GI: 289718829 lacks usable taxonomic information. Score-level: 323.0
+1138835 [main] DEBUG mpimarta.taxa  -  time: 011014-152343 Analyzing OTU:otu1989 and gi:289718829 - Although we considered the top: 0 elements, we slipped past the slip-score.
+
+1139555 [main] DEBUG mpimarta.taxa  - Id: otu3402 time: 011014-152344 Using slipscore: 266.25
+1139563 [main] DEBUG mpimarta.taxa  - Id: otu1988 time: 011014-152344 Using slipscore: 245.25
+1139563 [main] DEBUG mpimarta.taxa  - Id: otu1988 time: 011014-152344 GI: 526298118 lacks usable taxonomic information. Score-level: 327.0
+1139563 [main] DEBUG mpimarta.taxa  -  time: 011014-152344 Analyzing OTU:otu1988 and gi:526298118 - Although we considered the top: 0 elements, we slipped past the slip-score.
+
+1140221 [main] DEBUG mpimarta.taxa  - Id: otu3401 time: 011014-152344 Using slipscore: 254.25
+1140230 [main] DEBUG mpimarta.taxa  - Id: otu3400 time: 011014-152344 Using slipscore: 291.75
+1140230 [main] DEBUG mpimarta.taxa  - Id: otu3400 time: 011014-152344 GI: 90102939 lacks usable taxonomic information. Score-level: 389.0
+1140230 [main] DEBUG mpimarta.taxa  -  time: 011014-152344 Analyzing OTU:otu3400 and gi:90102939 - Although we considered the top: 0 elements, we slipped past the slip-score.
+
+1140490 [main] DEBUG mpimarta.taxa  - Id: otu3406 time: 011014-152345 Using slipscore: 348.0
+1140490 [main] DEBUG mpimarta.taxa  - Id: otu3406 time: 011014-152345 GI: 259104507 lacks usable taxonomic information. Score-level: 464.0
+1140490 [main] DEBUG mpimarta.taxa  - Id: otu3406 time: 011014-152345 GI: 224969659 lacks usable taxonomic information. Score-level: 456.0
+1140490 [main] DEBUG mpimarta.taxa  - Id: otu3406 time: 011014-152345 GI: 259093066 lacks usable taxonomic information. Score-level: 448.0
+1140490 [main] DEBUG mpimarta.taxa  - Id: otu3406 time: 011014-152345 GI: 259102380 lacks usable taxonomic information. Score-level: 448.0
+1140490 [main] DEBUG mpimarta.taxa  - Id: otu3406 time: 011014-152345 GI: 259091243 lacks usable taxonomic information. Score-level: 448.0
+1140490 [main] DEBUG mpimarta.taxa  - Id: otu3406 time: 011014-152345 GI: 259102266 lacks usable taxonomic information. Score-level: 448.0
+1140490 [main] DEBUG mpimarta.taxa  - Id: otu3406 time: 011014-152345 GI: 259098875 lacks usable taxonomic information. Score-level: 448.0
+1140490 [main] DEBUG mpimarta.taxa  - Id: otu3406 time: 011014-152345 GI: 259103149 lacks usable taxonomic information. Score-level: 448.0
+1140490 [main] DEBUG mpimarta.taxa  - Id: otu3406 time: 011014-152345 GI: 259100986 lacks usable taxonomic information. Score-level: 448.0
+1140490 [main] DEBUG mpimarta.taxa  - Id: otu3406 time: 011014-152345 GI: 259101271 lacks usable taxonomic information. Score-level: 448.0
+1140490 [main] DEBUG mpimarta.taxa  - Id: otu3406 time: 011014-152345 GI: 259107587 lacks usable taxonomic information. Score-level: 448.0
+1140490 [main] DEBUG mpimarta.taxa  - Id: otu3406 time: 011014-152345 GI: 259101423 lacks usable taxonomic information. Score-level: 448.0
+1140490 [main] DEBUG mpimarta.taxa  - Id: otu3406 time: 011014-152345 GI: 224973961 lacks usable taxonomic information. Score-level: 448.0
+1140490 [main] DEBUG mpimarta.taxa  - Id: otu3406 time: 011014-152345 GI: 224973648 lacks usable taxonomic information. Score-level: 448.0
+1140490 [main] DEBUG mpimarta.taxa  - Id: otu3406 time: 011014-152345 GI: 259098821 lacks usable taxonomic information. Score-level: 446.0
+1140490 [main] DEBUG mpimarta.taxa  - Id: otu3406 time: 011014-152345 GI: 224972333 lacks usable taxonomic information. Score-level: 442.0
+1140490 [main] DEBUG mpimarta.taxa  - Id: otu3406 time: 011014-152345 GI: 224974209 lacks usable taxonomic information. Score-level: 442.0
+1140490 [main] DEBUG mpimarta.taxa  - Id: otu3406 time: 011014-152345 GI: 224973576 lacks usable taxonomic information. Score-level: 440.0
+1140490 [main] DEBUG mpimarta.taxa  - Id: otu3406 time: 011014-152345 GI: 259097315 lacks usable taxonomic information. Score-level: 440.0
+1140490 [main] DEBUG mpimarta.taxa  - Id: otu3406 time: 011014-152345 GI: 224973991 lacks usable taxonomic information. Score-level: 440.0
+1140490 [main] DEBUG mpimarta.taxa  - Id: otu3406 time: 011014-152345 GI: 259109358 lacks usable taxonomic information. Score-level: 440.0
+1140490 [main] DEBUG mpimarta.taxa  - Id: otu3406 time: 011014-152345 GI: 224973907 lacks usable taxonomic information. Score-level: 440.0
+1140490 [main] DEBUG mpimarta.taxa  - Id: otu3406 time: 011014-152345 GI: 259096261 lacks usable taxonomic information. Score-level: 440.0
+1140490 [main] DEBUG mpimarta.taxa  - Id: otu3406 time: 011014-152345 GI: 259099279 lacks usable taxonomic information. Score-level: 440.0
+1140490 [main] DEBUG mpimarta.taxa  - Id: otu3406 time: 011014-152345 GI: 259103891 lacks usable taxonomic information. Score-level: 440.0
+1140490 [main] DEBUG mpimarta.taxa  - Id: otu3406 time: 011014-152345 GI: 259101951 lacks usable taxonomic information. Score-level: 440.0
+1140490 [main] DEBUG mpimarta.taxa  - Id: otu3406 time: 011014-152345 GI: 259103098 lacks usable taxonomic information. Score-level: 440.0
+1140490 [main] DEBUG mpimarta.taxa  - Id: otu3406 time: 011014-152345 GI: 259093386 lacks usable taxonomic information. Score-level: 440.0
+1140490 [main] DEBUG mpimarta.taxa  - Id: otu3406 time: 011014-152345 GI: 259101772 lacks usable taxonomic information. Score-level: 440.0
+1140490 [main] DEBUG mpimarta.taxa  - Id: otu3406 time: 011014-152345 GI: 259100939 lacks usable taxonomic information. Score-level: 440.0
+1140490 [main] DEBUG mpimarta.taxa  - Id: otu3406 time: 011014-152345 GI: 259108452 lacks usable taxonomic information. Score-level: 440.0
+1140490 [main] DEBUG mpimarta.taxa  - Id: otu3406 time: 011014-152345 GI: 259096274 lacks usable taxonomic information. Score-level: 440.0
+1140490 [main] DEBUG mpimarta.taxa  - Id: otu3406 time: 011014-152345 GI: 259091608 lacks usable taxonomic information. Score-level: 440.0
+1140490 [main] DEBUG mpimarta.taxa  - Id: otu3406 time: 011014-152345 GI: 259091426 lacks usable taxonomic information. Score-level: 440.0
+1140490 [main] DEBUG mpimarta.taxa  - Id: otu3406 time: 011014-152345 GI: 259092349 lacks usable taxonomic information. Score-level: 440.0
+1140490 [main] DEBUG mpimarta.taxa  - Id: otu3406 time: 011014-152345 GI: 259092900 lacks usable taxonomic information. Score-level: 440.0
+1140490 [main] DEBUG mpimarta.taxa  - Id: otu3406 time: 011014-152345 GI: 259093627 lacks usable taxonomic information. Score-level: 434.0
+1140490 [main] DEBUG mpimarta.taxa  - Id: otu3406 time: 011014-152345 GI: 259095376 lacks usable taxonomic information. Score-level: 434.0
+1140490 [main] DEBUG mpimarta.taxa  - Id: otu3406 time: 011014-152345 GI: 259103946 lacks usable taxonomic information. Score-level: 432.0
+1140491 [main] DEBUG mpimarta.taxa  - Id: otu3406 time: 011014-152345 GI: 224970499 lacks usable taxonomic information. Score-level: 432.0
+1140491 [main] DEBUG mpimarta.taxa  - Id: otu3406 time: 011014-152345 GI: 259099630 lacks usable taxonomic information. Score-level: 432.0
+1140491 [main] DEBUG mpimarta.taxa  - Id: otu3406 time: 011014-152345 GI: 259092257 lacks usable taxonomic information. Score-level: 432.0
+1140491 [main] DEBUG mpimarta.taxa  - Id: otu3406 time: 011014-152345 GI: 259091893 lacks usable taxonomic information. Score-level: 432.0
+1140491 [main] DEBUG mpimarta.taxa  - Id: otu3406 time: 011014-152345 GI: 259106819 lacks usable taxonomic information. Score-level: 424.0
+1140491 [main] DEBUG mpimarta.taxa  - Id: otu3406 time: 011014-152345 GI: 224973519 lacks usable taxonomic information. Score-level: 424.0
+1140491 [main] DEBUG mpimarta.taxa  - Id: otu3406 time: 011014-152345 GI: 259105801 lacks usable taxonomic information. Score-level: 424.0
+1140491 [main] DEBUG mpimarta.taxa  - Id: otu3406 time: 011014-152345 GI: 259098266 lacks usable taxonomic information. Score-level: 424.0
+1140491 [main] DEBUG mpimarta.taxa  - Id: otu3406 time: 011014-152345 GI: 259101551 lacks usable taxonomic information. Score-level: 424.0
+1140491 [main] DEBUG mpimarta.taxa  - Id: otu3406 time: 011014-152345 GI: 259096337 lacks usable taxonomic information. Score-level: 424.0
+1140491 [main] DEBUG mpimarta.taxa  - Id: otu3406 time: 011014-152345 GI: 259095389 lacks usable taxonomic information. Score-level: 420.0
+1140491 [main] DEBUG mpimarta.taxa  - Id: otu3406 time: 011014-152345 GI: 292453191 lacks usable taxonomic information. Score-level: 416.0
+1140491 [main] DEBUG mpimarta.taxa  - Id: otu3406 time: 011014-152345 GI: 259091189 lacks usable taxonomic information. Score-level: 416.0
+1140491 [main] DEBUG mpimarta.taxa  - Id: otu3406 time: 011014-152345 GI: 292453156 lacks usable taxonomic information. Score-level: 416.0
+1140491 [main] DEBUG mpimarta.taxa  - Id: otu3406 time: 011014-152345 GI: 259108306 lacks usable taxonomic information. Score-level: 410.0
+1140491 [main] DEBUG mpimarta.taxa  - Id: otu3406 time: 011014-152345 GI: 224974676 lacks usable taxonomic information. Score-level: 408.0
+1140491 [main] DEBUG mpimarta.taxa  - Id: otu3406 time: 011014-152345 GI: 259091685 lacks usable taxonomic information. Score-level: 404.0
+1140491 [main] DEBUG mpimarta.taxa  - Id: otu3406 time: 011014-152345 GI: 224972595 lacks usable taxonomic information. Score-level: 402.0
+1140491 [main] DEBUG mpimarta.taxa  - Id: otu3406 time: 011014-152345 GI: 224974125 lacks usable taxonomic information. Score-level: 402.0
+1140491 [main] DEBUG mpimarta.taxa  - Id: otu3406 time: 011014-152345 GI: 259097139 lacks usable taxonomic information. Score-level: 402.0
+1140491 [main] DEBUG mpimarta.taxa  - Id: otu3406 time: 011014-152345 GI: 259104163 lacks usable taxonomic information. Score-level: 402.0
+1140491 [main] DEBUG mpimarta.taxa  - Id: otu3406 time: 011014-152345 GI: 224972530 lacks usable taxonomic information. Score-level: 385.0
+1140491 [main] DEBUG mpimarta.taxa  - Id: otu3406 time: 011014-152345 GI: 339458367 lacks usable taxonomic information. Score-level: 383.0
+1140491 [main] DEBUG mpimarta.taxa  - Id: otu3406 time: 011014-152345 GI: 259091762 lacks usable taxonomic information. Score-level: 381.0
+1140491 [main] DEBUG mpimarta.taxa  - Id: otu3406 time: 011014-152345 GI: 259094322 lacks usable taxonomic information. Score-level: 381.0
+1140491 [main] DEBUG mpimarta.taxa  - Id: otu3406 time: 011014-152345 GI: 224974699 lacks usable taxonomic information. Score-level: 375.0
+1140491 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 Analyzing OTU:otu3406 and gi:224974699 - Although we considered the top: 0 elements, we slipped past the slip-score.
+
+1140895 [main] DEBUG mpimarta.taxa  - Id: otu3405 time: 011014-152345 Using slipscore: 307.5
+1140895 [main] DEBUG mpimarta.taxa  - Id: otu3405 time: 011014-152345 GI: 259096537 lacks usable taxonomic information. Score-level: 410.0
+1140895 [main] DEBUG mpimarta.taxa  - Id: otu3405 time: 011014-152345 GI: 259098852 lacks usable taxonomic information. Score-level: 410.0
+1140895 [main] DEBUG mpimarta.taxa  - Id: otu3405 time: 011014-152345 GI: 259103555 lacks usable taxonomic information. Score-level: 402.0
+1140895 [main] DEBUG mpimarta.taxa  - Id: otu3405 time: 011014-152345 GI: 259095541 lacks usable taxonomic information. Score-level: 402.0
+1140895 [main] DEBUG mpimarta.taxa  - Id: otu3405 time: 011014-152345 GI: 259105051 lacks usable taxonomic information. Score-level: 402.0
+1140895 [main] DEBUG mpimarta.taxa  - Id: otu3405 time: 011014-152345 GI: 259098275 lacks usable taxonomic information. Score-level: 396.0
+1140895 [main] DEBUG mpimarta.taxa  - Id: otu3405 time: 011014-152345 GI: 259108113 lacks usable taxonomic information. Score-level: 396.0
+1140895 [main] DEBUG mpimarta.taxa  - Id: otu3405 time: 011014-152345 GI: 259105695 lacks usable taxonomic information. Score-level: 396.0
+1140895 [main] DEBUG mpimarta.taxa  - Id: otu3405 time: 011014-152345 GI: 259102528 lacks usable taxonomic information. Score-level: 396.0
+1140895 [main] DEBUG mpimarta.taxa  - Id: otu3405 time: 011014-152345 GI: 259108383 lacks usable taxonomic information. Score-level: 396.0
+1140895 [main] DEBUG mpimarta.taxa  - Id: otu3405 time: 011014-152345 GI: 259107643 lacks usable taxonomic information. Score-level: 396.0
+1140895 [main] DEBUG mpimarta.taxa  - Id: otu3405 time: 011014-152345 GI: 259105025 lacks usable taxonomic information. Score-level: 396.0
+1140895 [main] DEBUG mpimarta.taxa  - Id: otu3405 time: 011014-152345 GI: 259092923 lacks usable taxonomic information. Score-level: 396.0
+1140895 [main] DEBUG mpimarta.taxa  - Id: otu3405 time: 011014-152345 GI: 259107573 lacks usable taxonomic information. Score-level: 396.0
+1140895 [main] DEBUG mpimarta.taxa  - Id: otu3405 time: 011014-152345 GI: 259105475 lacks usable taxonomic information. Score-level: 396.0
+1140895 [main] DEBUG mpimarta.taxa  - Id: otu3405 time: 011014-152345 GI: 259107171 lacks usable taxonomic information. Score-level: 396.0
+1140895 [main] DEBUG mpimarta.taxa  - Id: otu3405 time: 011014-152345 GI: 224971277 lacks usable taxonomic information. Score-level: 396.0
+1140895 [main] DEBUG mpimarta.taxa  - Id: otu3405 time: 011014-152345 GI: 259107738 lacks usable taxonomic information. Score-level: 396.0
+1140895 [main] DEBUG mpimarta.taxa  - Id: otu3405 time: 011014-152345 GI: 259091690 lacks usable taxonomic information. Score-level: 392.0
+1140895 [main] DEBUG mpimarta.taxa  - Id: otu3405 time: 011014-152345 GI: 259108165 lacks usable taxonomic information. Score-level: 391.0
+1140896 [main] DEBUG mpimarta.taxa  - Id: otu3405 time: 011014-152345 GI: 259093778 lacks usable taxonomic information. Score-level: 389.0
+1140896 [main] DEBUG mpimarta.taxa  - Id: otu3405 time: 011014-152345 GI: 224969461 lacks usable taxonomic information. Score-level: 389.0
+1140896 [main] DEBUG mpimarta.taxa  - Id: otu3405 time: 011014-152345 GI: 259102446 lacks usable taxonomic information. Score-level: 389.0
+1140896 [main] DEBUG mpimarta.taxa  - Id: otu3405 time: 011014-152345 GI: 224972027 lacks usable taxonomic information. Score-level: 389.0
+1140896 [main] DEBUG mpimarta.taxa  - Id: otu3405 time: 011014-152345 GI: 259096729 lacks usable taxonomic information. Score-level: 389.0
+1140896 [main] DEBUG mpimarta.taxa  - Id: otu3405 time: 011014-152345 GI: 259107100 lacks usable taxonomic information. Score-level: 389.0
+1140896 [main] DEBUG mpimarta.taxa  - Id: otu3405 time: 011014-152345 GI: 259103460 lacks usable taxonomic information. Score-level: 387.0
+1140896 [main] DEBUG mpimarta.taxa  - Id: otu3405 time: 011014-152345 GI: 224975141 lacks usable taxonomic information. Score-level: 387.0
+1140896 [main] DEBUG mpimarta.taxa  - Id: otu3405 time: 011014-152345 GI: 259097490 lacks usable taxonomic information. Score-level: 383.0
+1140896 [main] DEBUG mpimarta.taxa  - Id: otu3405 time: 011014-152345 GI: 224973935 lacks usable taxonomic information. Score-level: 383.0
+1140896 [main] DEBUG mpimarta.taxa  - Id: otu3405 time: 011014-152345 GI: 224969498 lacks usable taxonomic information. Score-level: 381.0
+1140896 [main] DEBUG mpimarta.taxa  - Id: otu3405 time: 011014-152345 GI: 259096683 lacks usable taxonomic information. Score-level: 381.0
+1140896 [main] DEBUG mpimarta.taxa  - Id: otu3405 time: 011014-152345 GI: 259092480 lacks usable taxonomic information. Score-level: 381.0
+1140896 [main] DEBUG mpimarta.taxa  - Id: otu3405 time: 011014-152345 GI: 224971325 lacks usable taxonomic information. Score-level: 381.0
+1140896 [main] DEBUG mpimarta.taxa  - Id: otu3405 time: 011014-152345 GI: 224974153 lacks usable taxonomic information. Score-level: 381.0
+1140896 [main] DEBUG mpimarta.taxa  - Id: otu3405 time: 011014-152345 GI: 259101740 lacks usable taxonomic information. Score-level: 381.0
+1140896 [main] DEBUG mpimarta.taxa  - Id: otu3405 time: 011014-152345 GI: 259097343 lacks usable taxonomic information. Score-level: 379.0
+1140896 [main] DEBUG mpimarta.taxa  - Id: otu3405 time: 011014-152345 GI: 224973714 lacks usable taxonomic information. Score-level: 379.0
+1140896 [main] DEBUG mpimarta.taxa  - Id: otu3405 time: 011014-152345 GI: 259107588 lacks usable taxonomic information. Score-level: 379.0
+1140896 [main] DEBUG mpimarta.taxa  - Id: otu3405 time: 011014-152345 GI: 224970821 lacks usable taxonomic information. Score-level: 377.0
+1140896 [main] DEBUG mpimarta.taxa  - Id: otu3405 time: 011014-152345 GI: 259098800 lacks usable taxonomic information. Score-level: 377.0
+1140896 [main] DEBUG mpimarta.taxa  - Id: otu3405 time: 011014-152345 GI: 259097660 lacks usable taxonomic information. Score-level: 375.0
+1140896 [main] DEBUG mpimarta.taxa  - Id: otu3405 time: 011014-152345 GI: 259098938 lacks usable taxonomic information. Score-level: 375.0
+1140896 [main] DEBUG mpimarta.taxa  - Id: otu3405 time: 011014-152345 GI: 259097857 lacks usable taxonomic information. Score-level: 375.0
+1140896 [main] DEBUG mpimarta.taxa  - Id: otu3405 time: 011014-152345 GI: 259093936 lacks usable taxonomic information. Score-level: 375.0
+1140896 [main] DEBUG mpimarta.taxa  - Id: otu3405 time: 011014-152345 GI: 224973222 lacks usable taxonomic information. Score-level: 373.0
+1140896 [main] DEBUG mpimarta.taxa  - Id: otu3405 time: 011014-152345 GI: 224971716 lacks usable taxonomic information. Score-level: 373.0
+1140896 [main] DEBUG mpimarta.taxa  - Id: otu3405 time: 011014-152345 GI: 259092113 lacks usable taxonomic information. Score-level: 373.0
+1140896 [main] DEBUG mpimarta.taxa  - Id: otu3405 time: 011014-152345 GI: 224972319 lacks usable taxonomic information. Score-level: 373.0
+1140896 [main] DEBUG mpimarta.taxa  - Id: otu3405 time: 011014-152345 GI: 259094888 lacks usable taxonomic information. Score-level: 373.0
+1140896 [main] DEBUG mpimarta.taxa  - Id: otu3405 time: 011014-152345 GI: 259101750 lacks usable taxonomic information. Score-level: 373.0
+1140896 [main] DEBUG mpimarta.taxa  - Id: otu3405 time: 011014-152345 GI: 259098236 lacks usable taxonomic information. Score-level: 373.0
+1140896 [main] DEBUG mpimarta.taxa  - Id: otu3405 time: 011014-152345 GI: 259104208 lacks usable taxonomic information. Score-level: 373.0
+1140896 [main] DEBUG mpimarta.taxa  - Id: otu3405 time: 011014-152345 GI: 259108012 lacks usable taxonomic information. Score-level: 373.0
+1140896 [main] DEBUG mpimarta.taxa  - Id: otu3405 time: 011014-152345 GI: 259099755 lacks usable taxonomic information. Score-level: 373.0
+1140896 [main] DEBUG mpimarta.taxa  - Id: otu3405 time: 011014-152345 GI: 259101977 lacks usable taxonomic information. Score-level: 373.0
+1140896 [main] DEBUG mpimarta.taxa  - Id: otu3405 time: 011014-152345 GI: 224971466 lacks usable taxonomic information. Score-level: 373.0
+1140896 [main] DEBUG mpimarta.taxa  - Id: otu3405 time: 011014-152345 GI: 259095409 lacks usable taxonomic information. Score-level: 371.0
+1140896 [main] DEBUG mpimarta.taxa  - Id: otu3405 time: 011014-152345 GI: 259099786 lacks usable taxonomic information. Score-level: 369.0
+1140896 [main] DEBUG mpimarta.taxa  - Id: otu3405 time: 011014-152345 GI: 224974649 lacks usable taxonomic information. Score-level: 367.0
+1140896 [main] DEBUG mpimarta.taxa  - Id: otu3405 time: 011014-152345 GI: 224972726 lacks usable taxonomic information. Score-level: 367.0
+1140896 [main] DEBUG mpimarta.taxa  - Id: otu3405 time: 011014-152345 GI: 224970610 lacks usable taxonomic information. Score-level: 367.0
+1140896 [main] DEBUG mpimarta.taxa  - Id: otu3405 time: 011014-152345 GI: 224969774 lacks usable taxonomic information. Score-level: 365.0
+1140896 [main] DEBUG mpimarta.taxa  - Id: otu3405 time: 011014-152345 GI: 259109061 lacks usable taxonomic information. Score-level: 365.0
+1140896 [main] DEBUG mpimarta.taxa  - Id: otu3405 time: 011014-152345 GI: 259104992 lacks usable taxonomic information. Score-level: 361.0
+1140896 [main] DEBUG mpimarta.taxa  - Id: otu3405 time: 011014-152345 GI: 259107268 lacks usable taxonomic information. Score-level: 359.0
+1140896 [main] DEBUG mpimarta.taxa  - Id: otu3405 time: 011014-152345 GI: 224973851 lacks usable taxonomic information. Score-level: 359.0
+1140896 [main] DEBUG mpimarta.taxa  - Id: otu3405 time: 011014-152345 GI: 259100279 lacks usable taxonomic information. Score-level: 359.0
+1140896 [main] DEBUG mpimarta.taxa  - Id: otu3405 time: 011014-152345 GI: 259107065 lacks usable taxonomic information. Score-level: 357.0
+1140896 [main] DEBUG mpimarta.taxa  - Id: otu3405 time: 011014-152345 GI: 259099267 lacks usable taxonomic information. Score-level: 355.0
+1140896 [main] DEBUG mpimarta.taxa  - Id: otu3405 time: 011014-152345 GI: 224973041 lacks usable taxonomic information. Score-level: 353.0
+1140896 [main] DEBUG mpimarta.taxa  - Id: otu3405 time: 011014-152345 GI: 259103055 lacks usable taxonomic information. Score-level: 349.0
+1140896 [main] DEBUG mpimarta.taxa  - Id: otu3405 time: 011014-152345 GI: 259090927 lacks usable taxonomic information. Score-level: 349.0
+1140896 [main] DEBUG mpimarta.taxa  - Id: otu3405 time: 011014-152345 GI: 259100657 lacks usable taxonomic information. Score-level: 345.0
+1140896 [main] DEBUG mpimarta.taxa  - Id: otu3405 time: 011014-152345 GI: 224974623 lacks usable taxonomic information. Score-level: 343.0
+1140896 [main] DEBUG mpimarta.taxa  - Id: otu3405 time: 011014-152345 GI: 117653132 lacks usable taxonomic information. Score-level: 341.0
+1140896 [main] DEBUG mpimarta.taxa  - Id: otu3405 time: 011014-152345 GI: 224974042 lacks usable taxonomic information. Score-level: 341.0
+1140896 [main] DEBUG mpimarta.taxa  - Id: otu3405 time: 011014-152345 GI: 117653036 lacks usable taxonomic information. Score-level: 341.0
+1140896 [main] DEBUG mpimarta.taxa  - Id: otu3405 time: 011014-152345 GI: 259091173 lacks usable taxonomic information. Score-level: 339.0
+1140896 [main] DEBUG mpimarta.taxa  - Id: otu3405 time: 011014-152345 GI: 224972784 lacks usable taxonomic information. Score-level: 337.0
+1140896 [main] DEBUG mpimarta.taxa  - Id: otu3405 time: 011014-152345 GI: 224970903 lacks usable taxonomic information. Score-level: 337.0
+1140896 [main] DEBUG mpimarta.taxa  - Id: otu3405 time: 011014-152345 GI: 117653362 lacks usable taxonomic information. Score-level: 333.0
+1140902 [main] DEBUG mpimarta.taxa  - Id: otu3404 time: 011014-152345 Using slipscore: -0.75
+1140902 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu3404
+1140911 [main] DEBUG mpimarta.taxa  - Id: otu3403 time: 011014-152345 Using slipscore: 290.25
+1140911 [main] DEBUG mpimarta.taxa  - Id: otu3403 time: 011014-152345 GI: 544585188 lacks usable taxonomic information. Score-level: 387.0
+1140911 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 Analyzing OTU:otu3403 and gi:544585188 - Although we considered the top: 0 elements, we slipped past the slip-score.
+
+1140916 [main] DEBUG mpimarta.taxa  - Id: otu8 time: 011014-152345 Using slipscore: -0.75
+1140917 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu8
+1140921 [main] DEBUG mpimarta.taxa  - Id: otu9 time: 011014-152345 Using slipscore: -0.75
+1140921 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu9
+1140926 [main] DEBUG mpimarta.taxa  - Id: otu4 time: 011014-152345 Using slipscore: -0.75
+1140926 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu4
+1140931 [main] DEBUG mpimarta.taxa  - Id: otu5 time: 011014-152345 Using slipscore: -0.75
+1140931 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu5
+1140936 [main] DEBUG mpimarta.taxa  - Id: otu6 time: 011014-152345 Using slipscore: -0.75
+1140936 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu6
+1140941 [main] DEBUG mpimarta.taxa  - Id: otu7 time: 011014-152345 Using slipscore: -0.75
+1140941 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu7
+1140946 [main] DEBUG mpimarta.taxa  - Id: otu1 time: 011014-152345 Using slipscore: -0.75
+1140947 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu1
+1140951 [main] DEBUG mpimarta.taxa  - Id: otu3 time: 011014-152345 Using slipscore: -0.75
+1140952 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu3
+1140952 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu885
+1140952 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu880
+1140952 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu4642
+1140952 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu4634
+1140952 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu4611
+1140952 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu4612
+1140952 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu4603
+1140952 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu1461
+1140952 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu914
+1140952 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu1468
+1140952 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu903
+1140952 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu908
+1140952 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu2451
+1140952 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu4008
+1140952 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu4579
+1140952 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu4583
+1140952 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu4553
+1140952 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu1493
+1140952 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu4569
+1140952 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu988
+1140952 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu978
+1140952 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu968
+1140952 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu4069
+1140952 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu4068
+1140952 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu1434
+1140952 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu4054
+1140952 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu3572
+1140952 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu942
+1140952 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu3545
+1140952 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu930
+1140952 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu1413
+1140952 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu924
+1140952 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu4706
+1140952 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu4702
+1140952 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu762
+1140952 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu773
+1140953 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu782
+1140953 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu793
+1140953 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu795
+1140953 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu794
+1140953 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu797
+1140953 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu798
+1140953 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu1292
+1140953 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu1287
+1140953 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu1289
+1140953 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu1281
+1140953 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu13
+1140953 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu14
+1140953 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu27
+1140953 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu28
+1140953 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu20
+1140953 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu36
+1140953 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu35
+1140953 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu33
+1140953 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu38
+1140953 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu32
+1140953 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu30
+1140953 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu4715
+1140953 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu48
+1140953 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu41
+1140953 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu58
+1140953 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu57
+1140953 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu51
+1140953 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu50
+1140953 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu4738
+1140953 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu65
+1140953 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu60
+1140953 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu61
+1140953 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu86
+1140953 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu84
+1140953 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu1328
+1140953 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu2583
+1140953 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu76
+1140953 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu72
+1140953 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu71
+1140953 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu1337
+1140953 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu77
+1140953 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu78
+1140953 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu79
+1140953 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu1339
+1140953 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu2586
+1140953 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu2595
+1140953 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu92
+1140953 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu98
+1140953 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu97
+1140953 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu1351
+1140953 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu4673
+1140953 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu4679
+1140953 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu1372
+1140953 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu4684
+1140953 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu2547
+1140953 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu1379
+1140953 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu4692
+1140953 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu3603
+1140953 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu2561
+1140954 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu2567
+1140954 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu858
+1140954 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu2507
+1140954 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu3633
+1140954 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu840
+1140954 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu841
+1140954 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu879
+1140954 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu878
+1140954 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu862
+1140954 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu3682
+1140954 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu827
+1140954 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu829
+1140954 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu828
+1140954 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu668
+1140954 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu661
+1140954 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu681
+1140954 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu672
+1140954 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu649
+1140954 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu646
+1140954 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu641
+1140954 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu659
+1140954 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu656
+1140954 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu650
+1140954 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu651
+1140954 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu690
+1140954 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu689
+1140954 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu682
+1140954 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu683
+1140954 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu695
+1140954 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu2147
+1140954 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu4427
+1140954 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu4429
+1140954 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu4428
+1140954 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu4418
+1140954 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu2182
+1140954 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu2187
+1140954 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu4409
+1140954 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu2170
+1140954 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu4224
+1140954 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu4339
+1140954 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu4336
+1140954 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu4337
+1140954 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu4331
+1140954 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu4343
+1140954 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu4342
+1140954 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu3717
+1140954 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu4321
+1140954 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu4320
+1140954 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu4267
+1140954 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu4254
+1140955 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu1684
+1140955 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu4243
+1140955 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu4354
+1140955 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu1694
+1140955 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu4362
+1140955 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu4364
+1140955 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu718
+1140955 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu706
+1140955 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu701
+1140955 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu4395
+1140955 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu3783
+1140955 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu4398
+1140955 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu4271
+1140955 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu4273
+1140955 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu751
+1140955 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu3765
+1140955 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu745
+1140955 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu747
+1140955 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu731
+1140955 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu1607
+1140955 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu3747
+1140955 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu1606
+1140955 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu720
+1140955 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu721
+1140955 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu524
+1140955 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu522
+1140955 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu529
+1140955 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu528
+1140955 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu527
+1140955 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu526
+1140955 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu525
+1140955 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu534
+1140955 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu542
+1140955 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu560
+1140955 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu555
+1140955 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu554
+1140955 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu557
+1140955 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu556
+1140955 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu558
+1140955 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu569
+1140955 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu563
+1140955 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu576
+1140955 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu585
+1140955 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu583
+1140955 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu595
+1140955 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu2251
+1140955 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu4526
+1140955 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu4513
+1140955 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu4535
+1140955 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu4434
+1140955 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu3824
+1140956 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu3823
+1140956 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu4432
+1140956 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu4447
+1140956 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu4444
+1140956 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu4445
+1140956 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu2312
+1140956 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu3852
+1140956 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu4466
+1140956 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu4464
+1140956 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu2337
+1140956 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu4479
+1140956 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu4121
+1140956 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu1561
+1140956 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu4487
+1140956 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu1587
+1140956 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu1597
+1140956 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu3815
+1140956 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu1531
+1140956 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu4189
+1140956 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu4172
+1140956 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu4177
+1140956 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu4178
+1140956 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu618
+1140956 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu603
+1140956 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu606
+1140956 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu608
+1140956 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu601
+1140956 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu3881
+1140956 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu636
+1140956 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu633
+1140956 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu625
+1140956 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu626
+1140956 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu627
+1140956 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu3894
+1140956 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu3898
+1140956 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu2887
+1140956 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu2876
+1140956 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu2823
+1140956 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu497
+1140956 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu496
+1140956 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu2834
+1140956 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu477
+1140956 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu3004
+1140956 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu3918
+1140956 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu480
+1140956 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu482
+1140956 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu483
+1140956 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu3017
+1140957 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu3909
+1140957 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu471
+1140957 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu472
+1140957 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu470
+1140957 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu452
+1140957 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu460
+1140957 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu461
+1140957 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu444
+1140957 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu448
+1140957 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu438
+1140957 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu431
+1140957 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu1019
+1140957 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu1012
+1140957 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu1829
+1140957 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu429
+1140957 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu1833
+1140957 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu1004
+1140957 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu416
+1140957 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu417
+1140957 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu3979
+1140957 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu405
+1140957 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu402
+1140957 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu400
+1140957 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu1817
+1140957 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu1870
+1140957 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu500
+1140957 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu501
+1140957 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu504
+1140957 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu513
+1140957 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu512
+1140957 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu511
+1140957 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu510
+1140957 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu518
+1140957 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu515
+1140957 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu514
+1140957 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu1857
+1140957 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu1886
+1140957 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu1888
+1140957 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu2062
+1140957 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu3197
+1140957 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu2962
+1140957 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu379
+1140957 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu374
+1140957 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu375
+1140957 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu2955
+1140957 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu368
+1140957 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu363
+1140957 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu365
+1140957 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu366
+1140957 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu2020
+1140957 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu399
+1140958 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu2032
+1140958 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu391
+1140958 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu392
+1140958 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu385
+1140958 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu386
+1140958 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu387
+1140958 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu388
+1140958 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu339
+1140958 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu335
+1140958 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu337
+1140958 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu330
+1140958 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu340
+1140958 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu327
+1140958 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu324
+1140958 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu321
+1140958 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu361
+1140958 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu362
+1140958 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu3133
+1140958 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu349
+1140958 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu346
+1140958 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu313
+1140958 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu3165
+1140958 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu1708
+1140958 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu1704
+1140958 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu303
+1140958 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu304
+1140958 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu302
+1140958 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu308
+1140958 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu306
+1140958 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu309
+1140958 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu1797
+1140958 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu1792
+1140958 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu2924
+1140958 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu275
+1140958 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu276
+1140958 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu280
+1140958 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu283
+1140958 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu266
+1140958 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu272
+1140958 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu271
+1140958 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu273
+1140958 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu259
+1140958 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu258
+1140958 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu255
+1140958 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu256
+1140958 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu254
+1140958 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu262
+1140958 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu260
+1140958 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu246
+1140958 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu245
+1140958 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu250
+1140958 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu252
+1140958 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu299
+1140958 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu298
+1140958 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu286
+1140959 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu289
+1140959 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu294
+1140959 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu295
+1140959 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu296
+1140959 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu3283
+1140959 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu3262
+1140959 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu3265
+1140959 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu1269
+1140959 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu2674
+1140959 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu1215
+1140959 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu234
+1140959 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu236
+1140959 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu239
+1140959 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu223
+1140959 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu226
+1140959 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu225
+1140959 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu229
+1140959 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu228
+1140959 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu210
+1140959 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu212
+1140959 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu204
+1140959 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu200
+1140959 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu207
+1140959 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu206
+1140959 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu3317
+1140959 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu1161
+1140959 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu1162
+1140959 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu1171
+1140959 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu1179
+1140959 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu1181
+1140959 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu1190
+1140959 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu138
+1140959 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu139
+1140959 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu136
+1140959 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu137
+1140959 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu132
+1140959 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu133
+1140959 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu142
+1140959 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu141
+1140959 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu128
+1140959 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu156
+1140959 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu158
+1140959 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu164
+1140959 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu147
+1140959 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu150
+1140959 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu179
+1140959 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu178
+1140959 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu177
+1140959 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu176
+1140959 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu185
+1140959 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu183
+1140959 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu180
+1140960 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu2768
+1140960 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu169
+1140960 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu166
+1140960 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu168
+1140960 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu172
+1140960 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu173
+1140960 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu2755
+1140960 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu198
+1140960 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu188
+1140960 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu192
+1140960 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu197
+1140960 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu1158
+1140960 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu1148
+1140960 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu1134
+1140960 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu1952
+1140960 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu1905
+1140960 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu119
+1140960 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu113
+1140960 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu116
+1140960 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu3375
+1140960 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu109
+1140960 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu108
+1140960 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu102
+1140960 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu106
+1140960 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu1082
+1140960 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu1085
+1140960 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu1064
+1140960 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu1074
+1140960 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu1072
+1140960 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu1965
+1140960 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu1078
+1140960 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu1047
+1140960 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu1046
+1140960 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu0
+1140960 [main] DEBUG mpimarta.taxa  -  time: 011014-152345 There are no (valid) blast candidates for target-sequence: otu2
+1141046 [main] INFO  mpimarta.taxa  -  time: 011014-152345 The program has finished running.
